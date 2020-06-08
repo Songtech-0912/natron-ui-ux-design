@@ -5,6 +5,16 @@
 ## Welcome!
 This is a repository for anyone interested in UI/UX design to work together on improving [Natron's GUI](https://github.com/NatronGitHub/Natron). Feel free to discuss UI issues, come up with new designs, or showcase your own designs of Natron.
 
+## Designs
+
+* Version 1.0
+
+<img src="concept 1.0/Mockup.svg">
+
+* Version 2.0
+
+<img src="concept 2.0/PNG/Final Design.png">
+
 ## Contributing
 There are many ways to contribute to this project:
 - Suggesting a UI/UX feature
@@ -14,9 +24,6 @@ There are many ways to contribute to this project:
 
 ## Code of Conduct
 See [code of conduct]
-
-
-
 
  [code of conduct]: https://github.com/Songtech-0912/natron-ui-ux-design/docs/code-of-conduct.md
  
