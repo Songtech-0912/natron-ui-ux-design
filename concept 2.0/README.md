@@ -62,4 +62,4 @@ I am already working on the next version (3.0), which will feature more improvem
 
 One caveat though: working on the next release will take a long time if I do it alone, and I will need the community's support if I'm going to be working on this outside of freetime and late hours. 
 
-If any of you have suggestions or are interested, please regularly visit this project's Github repo and contribute. I've also hosted the Inkscape SVG files for the design on the same github repo.
+If any of you have suggestions or are interested, please regularly visit this project's Github repo and contribute. I've also hosted the Inkscape SVG files for the design on this github repo. You can find them in the `SVG` folder.
