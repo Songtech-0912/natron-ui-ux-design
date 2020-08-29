@@ -58,7 +58,7 @@ Alongside the redesign of Natron's GUI, I also created a redesign of its website
 
 ## Future
 
-* I will continue to ask for the coummunity's opinions and commentary
+* I will continue to ask for the community's opinions and commentary
 
 * I might implement different themes in the future
 
