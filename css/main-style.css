@@ -1,7 +1,7 @@
 @import url('https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/inter.css');
 
 body {
-    font-family: Inter;
+    font-family: Inter, sans-serif;
     margin: 0;
 }
 
