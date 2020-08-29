@@ -15,7 +15,7 @@ Here is the current design of the Natron UI/UX Design Project:
 
 <img src="concept 3.0/Final Design.png" width="960">
 
-[Read more about this design]()
+[Read more about this design](https://github.com/Songtech-0912/natron-ui-ux-design/concept%203.0/README.md)
 
 ### Previous Designs
 
