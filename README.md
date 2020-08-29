@@ -7,13 +7,29 @@ This is a repository for anyone interested in UI/UX design to work together on i
 
 ## Designs
 
-* Version 1.0
+Here is the current design of the Natron UI/UX Design Project:
 
-<img src="concept 1.0/Mockup.svg">
+### Latest Design 
 
-* Version 2.0
+**Version 3.0**
 
-<img src="concept 2.0/PNG/Final Design.png">
+<img src="concept 3.0/Final Design.png" width="960">
+
+[Read more about this design]()
+
+### Previous Designs
+
+Here are legacy designs of previous releases
+
+**Version 2.0**
+
+<img src="concept 2.0/PNG/Final Design.png" width="960">
+
+**Version 1.0**
+
+<img src="concept 1.0/Mockup.svg" width="960">
+
+
 
 ## Contributing
 There are many ways to contribute to this project:
