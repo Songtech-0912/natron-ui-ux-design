@@ -53,9 +53,7 @@ Natron UI 3.0 is a completely redesigned version of Natron's UI, made from scrat
 
 <img src="Release Files/Resources/website.png" width="960">
 
-Alongside the redesign of Natron's GUI, I also created a redesign of its website. Although it's far from production-ready yet, you're welcome to try it out:
-
-(Remix on Glitch button)
+Alongside the redesign of Natron's GUI, I also created a redesign of its website. Although it's far from production-ready yet, you're welcome to try it out at [https://songtech-0912.github.io/natron-ui-ux-design/](https://songtech-0912.github.io/natron-ui-ux-design/)
 
 
 ## Future
