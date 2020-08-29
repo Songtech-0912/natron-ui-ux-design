@@ -1,5 +1,5 @@
 
-# Natron - UI/UX Design
+# Natron Website - UI/UX Design 
  Collaborative repo for those interested in improving/modifying Natron's UI/UX. 
 
 ## Welcome!
