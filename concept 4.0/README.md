@@ -14,7 +14,7 @@ This project is going to be a massive, time-consuming undertaking, and I will ne
 
 Some guidelines on contributions:
 
-* Please only share SVG or Inkscape SVG files, not files in a proprietary format, like Adobe XD or Sketch
+* Please only share `.alva`, SVG or Inkscape SVG files, not files in a proprietary format, like Adobe XD or Sketch
 
 * Please stick to open-source fonts, such as Inter, Open Sans or Helvetica
 
