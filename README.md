@@ -5,6 +5,8 @@
 ## Welcome!
 This is a repository for anyone interested in UI/UX design to work together on improving [Natron's GUI](https://github.com/NatronGitHub/Natron). Feel free to discuss UI issues, come up with new designs, or showcase your own designs of Natron.
 
+Currently, the design is in its 4th iteration (Version 4.0). To learn more, contribute or see the latest designs, go to the [v4 folder](concept%204.0/README.md).
+
 ## Designs
 
 Here is the current design of the Natron UI/UX Design Project:
