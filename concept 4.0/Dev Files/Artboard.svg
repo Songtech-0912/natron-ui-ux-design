@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="SVGRoot"
+   version="1.1"
+   viewBox="0 0 1920 1080"
+   height="1080px"
+   width="1920px"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Artboard.svg">
+  <defs
+     id="defs936">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2265"
+       x="-0.037399162"
+       width="1.0747983"
+       y="-0.11570478"
+       height="1.2314096">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9829634"
+         id="feGaussianBlur2267" />
+    </filter>
+    <filter
+       height="1.2832853"
+       y="-0.14164265"
+       width="1.0887716"
+       x="-0.044385791"
+       id="filter1606"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1608"
+         stdDeviation="2.2163354"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-global="true"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="649.02992"
+     inkscape:cy="301.00415"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-bbox="true"
+     showguides="false" />
+  <metadata
+     id="metadata939">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:label="Artboard BG"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#091111;fill-opacity:1;stroke:none;stroke-width:5"
+       id="rect1528"
+       width="1920"
+       height="1080"
+       x="0"
+       y="-21.198229" />
+  </g>
+  <g
+     inkscape:label="Artboard Elements"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       id="g2456"
+       transform="translate(-81.239101)">
+      <rect
+         style="fill:#091111;fill-opacity:1;stroke:#667eea;stroke-width:0.327404;filter:url(#filter2265)"
+         id="rect1812"
+         width="127.25184"
+         height="41.131508"
+         x="180.29486"
+         y="177.97845"
+         ry="18.670574" />
+      <rect
+         ry="18.670574"
+         y="177.97845"
+         x="180.29486"
+         height="41.131508"
+         width="127.25184"
+         id="rect1810"
+         style="fill:#091111;fill-opacity:1;stroke:none;stroke-width:0.327404" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#de30fc;stroke-width:2.281;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1934"
+         width="107.26059"
+         height="28.209255"
+         x="190.29047"
+         y="184.43958"
+         ry="12.804853" />
+      <text
+         id="text1938"
+         y="205.41086"
+         x="225.74518"
+         style="font-size:19.0695px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;fill:#de30fc;fill-opacity:1;stroke-width:0.510791"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.510791"
+           y="205.41086"
+           x="225.74518"
+           id="tspan1936"
+           sodipodi:role="line">Blur</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:37.3333px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter"
+       x="105.53727"
+       y="76.027267"
+       id="text1957"><tspan
+         sodipodi:role="line"
+         id="tspan1955"
+         x="105.53727"
+         y="76.027267"
+         style="font-weight:bold;fill:#ececec">Node Redesign</tspan></text>
+    <text
+       id="text1965"
+       y="76.027267"
+       x="560.91949"
+       style="font-size:37.3333px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#ececec"
+         y="76.027267"
+         x="560.91949"
+         id="tspan1963"
+         sodipodi:role="line">Tab Redesign</tspan></text>
+    <text
+       id="text1969"
+       y="246.38597"
+       x="104.36582"
+       style="font-size:10.6275px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.284664"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#ececec;stroke-width:0.284664"
+         y="246.38597"
+         x="104.36582"
+         id="tspan1967"
+         sodipodi:role="line">Proposal 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6275px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.284664"
+       x="104.36582"
+       y="417.47427"
+       id="text867"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="104.36582"
+         y="417.47427"
+         style="font-weight:bold;fill:#ececec;stroke-width:0.284664">Proposal 2.1</tspan></text>
+    <g
+       id="g970">
+      <g
+         transform="translate(281.728,-0.52841262)"
+         id="g984">
+        <rect
+           ry="0"
+           y="172.2485"
+           x="291.54541"
+           height="19.67465"
+           width="339.15442"
+           id="rect976"
+           style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:2.57709" />
+        <rect
+           style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.21958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1606)"
+           id="rect890"
+           width="119.84026"
+           height="37.553696"
+           x="-178.96645"
+           y="350.85565"
+           ry="7.4714575" />
+        <rect
+           ry="7.4714575"
+           y="350.85565"
+           x="-178.96645"
+           height="37.553696"
+           width="119.84026"
+           id="rect874"
+           style="fill:#091111;fill-opacity:1;stroke:none;stroke-width:1.21958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           style="fill:none;fill-opacity:1;stroke:#b2ffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect857"
+           width="107.26059"
+           height="28.209255"
+           x="-172.67661"
+           y="355.52786"
+           ry="5.6123433" />
+        <text
+           id="text861"
+           y="376.49915"
+           x="-137.22189"
+           style="font-size:19.0695px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;fill:#b2ffff;fill-opacity:1;stroke-width:0.510791"
+           xml:space="preserve"><tspan
+             style="fill:#b2ffff;fill-opacity:1;stroke-width:0.510791"
+             y="376.49915"
+             x="-137.22189"
+             id="tspan859"
+             sodipodi:role="line">Blur</tspan></text>
+        <path
+           sodipodi:nodetypes="sccss"
+           d="m -167.55902,355.17577 h 5.93567 l -11.54802,11.79005 v -6.17771 c 0,-3.10924 2.50311,-5.61234 5.61235,-5.61234 z"
+           style="fill:#7c0093;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect876" />
+        <path
+           id="rect883"
+           style="fill:#f9f9f9;stroke:none;stroke-width:1.18181;fill-opacity:1"
+           d="m 295.86405,176.2275 c -2.39285,0 -4.31861,1.32597 -4.31861,2.97354 v 12.72212 h 75.16533 v -12.72212 c 0,-1.64757 -1.92713,-2.97354 -4.32002,-2.97354 z" />
+        <rect
+           style="fill:#f9f9f9;stroke:none;stroke-width:3.02535"
+           id="rect906"
+           width="339.15442"
+           height="27.114376"
+           x="291.54541"
+           y="191.92316"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:9.09795px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';fill:#1a1a1a;stroke-width:0.682348"
+           x="302.91299"
+           y="187.08267"
+           id="text920"><tspan
+             sodipodi:role="line"
+             id="tspan918"
+             x="302.91299"
+             y="187.08267"
+             style="font-size:9.09795px;stroke-width:0.682348">Tab 1</tspan></text>
+        <path
+           style="fill:#0084ff;fill-opacity:1;stroke-width:0.0368711"
+           d="m 355.31851,188.20485 c -0.15209,-0.018 -0.40426,-0.0657 -0.56037,-0.10614 -1.65399,-0.42814 -2.86506,-1.6826 -3.26061,-3.37742 -0.0972,-0.41643 -0.0972,-1.39026 0,-1.80668 0.41414,-1.77447 1.70167,-3.04119 3.48914,-3.43274 0.41619,-0.0912 1.28231,-0.0849 1.73294,0.0126 1.40107,0.30303 2.50258,1.17041 3.11729,2.4547 1.22085,2.55068 -0.30945,5.60523 -3.09885,6.18546 -0.3998,0.0832 -1.04131,0.11489 -1.41954,0.0702 z m -0.2492,-2.82877 0.7654,-0.76475 0.77434,0.77369 0.77435,0.77369 0.39604,-0.39603 0.39603,-0.39604 -0.77369,-0.77434 -0.77369,-0.77435 0.77369,-0.77435 0.77369,-0.77435 -0.39603,-0.39603 -0.39604,-0.39604 -0.77435,0.77369 -0.77434,0.77369 -0.77435,-0.77369 -0.77435,-0.77369 -0.39604,0.39604 -0.39603,0.39603 0.77369,0.77435 0.77369,0.77435 -0.77347,0.77412 -0.77347,0.77413 0.386,0.38731 c 0.21229,0.21302 0.39444,0.38731 0.40476,0.38731 0.0103,0 0.3632,-0.34413 0.78417,-0.76474 z"
+           id="path958" />
+        <path
+           d="m 374.84393,176.2275 c -2.39285,0 -4.31861,1.32597 -4.31861,2.97354 v 12.72212 h 75.16533 v -12.72212 c 0,-1.64757 -1.92713,-2.97354 -4.32002,-2.97354 z"
+           style="fill:#d5dde3;fill-opacity:1;stroke:none;stroke-width:1.18181"
+           id="path964" />
+        <text
+           id="text968"
+           y="187.08267"
+           x="381.89288"
+           style="font-weight:bold;font-size:9.09795px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';fill:#afb5bb;fill-opacity:1;stroke-width:0.682348"
+           xml:space="preserve"><tspan
+             style="font-size:9.09795px;fill:#afb5bb;fill-opacity:1;stroke-width:0.682348"
+             y="187.08267"
+             x="381.89288"
+             id="tspan966"
+             sodipodi:role="line">Tab 2</tspan></text>
+        <path
+           id="path970"
+           style="fill:#d5dde3;fill-opacity:1;stroke:none;stroke-width:1.18181"
+           d="m 453.78967,176.2275 c -2.39285,0 -4.31861,1.32597 -4.31861,2.97354 v 12.72212 h 75.16533 v -12.72212 c 0,-1.64757 -1.92713,-2.97354 -4.32002,-2.97354 z" />
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:9.09795px;line-height:1.25;font-family:Inter;-inkscape-font-specification:'Inter Bold';fill:#afb5bb;fill-opacity:1;stroke-width:0.682348"
+           x="460.83862"
+           y="187.08267"
+           id="text974"><tspan
+             sodipodi:role="line"
+             id="tspan972"
+             x="460.83862"
+             y="187.08267"
+             style="font-size:9.09795px;fill:#afb5bb;fill-opacity:1;stroke-width:0.682348">Tab 3</tspan></text>
+        <g
+           transform="matrix(1.558071,0,0,1.558071,242.85037,328.11485)"
+           id="g1256">
+          <rect
+             style="fill:#1a2129;fill-opacity:1;stroke-width:0.127969"
+             id="rect1151"
+             width="21.084023"
+             height="11.376263"
+             x="2.220446e-16"
+             y="-267.35742"
+             transform="rotate(90)" />
+          <path
+             id="path1155"
+             d="m 262.19072,7.658727 h -1.04284 v 2.0856765 h -2.08568 v 1.0428375 h 2.08568 v 2.085677 h 1.04284 v -2.085677 h 2.08567 V 9.7444035 h -2.08567 z"
+             style="fill:#808080;stroke-width:0.521419"
+             sodipodi:nodetypes="ccccccccccccc" />
+        </g>
+        <g
+           transform="matrix(1.558071,0,0,1.558071,242.85037,328.11485)"
+           id="g1252">
+          <rect
+             transform="rotate(90)"
+             y="-255.98116"
+             x="2.220446e-16"
+             height="75.646942"
+             width="21.084023"
+             id="rect1149"
+             style="fill:#252d38;fill-opacity:1;stroke-width:0.329989" />
+          <path
+             sodipodi:nodetypes="ccccccccccccc"
+             style="fill:#808080;stroke-width:0.521419"
+             d="m 238.26156,8.0536244 -0.7374,0.7373993 1.4748,1.4747963 -1.4748,1.474798 0.7374,0.737398 1.4748,-1.474799 1.47479,1.474796 0.7374,-0.737399 -1.47479,-1.474796 1.47479,-1.4747915 -0.7374,-0.7373975 -1.47479,1.4747914 z"
+             id="path1170" />
+          <text
+             xml:space="preserve"
+             style="font-size:7.76111px;line-height:1.25;font-family:'Noto Sans CJK SC';-inkscape-font-specification:'Noto Sans CJK SC, Normal';fill:#808080;fill-opacity:1;stroke-width:0.223794"
+             x="188.76375"
+             y="12.658678"
+             id="text1174"><tspan
+               sodipodi:role="line"
+               id="tspan1172"
+               x="188.76375"
+               y="12.658678"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Inter;-inkscape-font-specification:Inter;fill:#808080;fill-opacity:1;stroke-width:0.223794">Tab 3</tspan></text>
+        </g>
+        <g
+           transform="matrix(1.558071,0,0,1.558071,242.85037,328.11485)"
+           id="g1246">
+          <rect
+             style="fill:#303742;fill-opacity:1;stroke-width:0.329989"
+             id="rect1147"
+             width="21.084023"
+             height="75.646942"
+             x="2.220446e-16"
+             y="-180.33421"
+             transform="rotate(90)" />
+          <path
+             id="path1184"
+             d="m 163.48879,8.0536244 -0.7374,0.7373993 1.4748,1.4747963 -1.4748,1.474798 0.7374,0.737398 1.4748,-1.474799 1.47479,1.474796 0.7374,-0.737399 -1.47479,-1.474796 1.47479,-1.4747915 -0.7374,-0.7373975 -1.47479,1.4747914 z"
+             style="fill:#ffffff;fill-opacity:1;stroke-width:0.521419"
+             sodipodi:nodetypes="ccccccccccccc" />
+          <text
+             id="text1188"
+             y="12.658678"
+             x="112.91996"
+             style="font-size:7.76111px;line-height:1.25;font-family:'Noto Sans CJK SC';-inkscape-font-specification:'Noto Sans CJK SC, Normal';fill:#c1c1c1;fill-opacity:1;stroke-width:0.223794"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Inter;-inkscape-font-specification:Inter;fill:#c1c1c1;fill-opacity:1;stroke-width:0.223794"
+               y="12.658678"
+               x="112.91996"
+               id="tspan1186"
+               sodipodi:role="line">Tab Two</tspan></text>
+        </g>
+        <g
+           transform="matrix(1.693969,0,0,1.558071,228.62359,328.11485)"
+           id="g1240">
+          <rect
+             transform="rotate(90)"
+             y="-104.68727"
+             x="2.220446e-16"
+             height="75.646942"
+             width="21.084023"
+             id="rect945"
+             style="fill:#252d38;fill-opacity:1;stroke-width:0.329989" />
+          <path
+             sodipodi:nodetypes="ccccccccccccc"
+             style="fill:#808080;fill-opacity:1;stroke-width:0.521419"
+             d="m 92.887267,8.0536244 -0.7374,0.7373993 1.4748,1.4747963 -1.4748,1.474798 0.7374,0.737398 1.4748,-1.474799 1.47479,1.474796 0.7374,-0.737399 -1.47479,-1.474796 1.47479,-1.4747915 -0.7374,-0.7373975 -1.47479,1.4747914 z"
+             id="path1190" />
+          <text
+             xml:space="preserve"
+             style="font-size:7.76111px;line-height:1.25;font-family:'Noto Sans CJK SC';-inkscape-font-specification:'Noto Sans CJK SC, Normal';fill:#c1c1c1;fill-opacity:1;stroke-width:0.223794"
+             x="42.318436"
+             y="12.658678"
+             id="text1194"><tspan
+               sodipodi:role="line"
+               id="tspan1192"
+               x="42.318436"
+               y="12.658678"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Inter;-inkscape-font-specification:Inter;fill:#c1c1c1;fill-opacity:1;stroke-width:0.223794">Tab One</tspan></text>
+        </g>
+        <rect
+           rx="0"
+           ry="0.5769909"
+           y="357.41116"
+           x="405.96057"
+           height="3.5540845"
+           width="118.0693"
+           id="rect2368"
+           style="opacity:1;fill:#c6763c;fill-opacity:1;stroke:none;stroke-width:2.27574;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       id="text1612"
+       y="417.47427"
+       x="290.17612"
+       style="font-size:10.6275px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.284664"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#ececec;stroke-width:0.284664"
+         y="417.47427"
+         x="290.17612"
+         id="tspan1610"
+         sodipodi:role="line">Proposal 2.2</tspan></text>
+    <g
+       transform="translate(185.81031)"
+       id="g1628">
+      <g
+         id="g1626"
+         transform="translate(281.728,-0.52841262)">
+        <rect
+           transform="matrix(1.0616937,0,0,0.99249038,11.182117,2.7758006)"
+           ry="7.4714575"
+           y="350.85565"
+           x="-178.96645"
+           height="37.553696"
+           width="119.84026"
+           id="rect1614"
+           style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.21958;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1606)" />
+        <rect
+           style="fill:#091111;fill-opacity:1;stroke:none;stroke-width:1.25191;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1616"
+           width="127.23366"
+           height="37.271683"
+           x="-178.82544"
+           y="350.99667"
+           ry="7.4153495" />
+        <rect
+           ry="5.5701966"
+           y="355.63379"
+           x="-172.14755"
+           height="27.997414"
+           width="113.8779"
+           id="rect1618"
+           style="fill:none;fill-opacity:1;stroke:#b2ffff;stroke-width:1.02651;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-size:19.0695px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;fill:#b2ffff;fill-opacity:1;stroke-width:0.510791"
+           x="-137.22189"
+           y="376.49915"
+           id="text1622"><tspan
+             sodipodi:role="line"
+             id="tspan1620"
+             x="-137.22189"
+             y="376.49915"
+             style="fill:#b2ffff;fill-opacity:1;stroke-width:0.510791">Blur</tspan></text>
+        <path
+           id="path1624"
+           style="fill:#7c0093;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -167.00045,355.17577 h 5.93567 l -11.54802,11.79005 v -6.17771 c 0,-3.10924 2.50311,-5.61234 5.61235,-5.61234 z"
+           sodipodi:nodetypes="sccss" />
+        <g
+           transform="matrix(0.79360899,0,0,0.79360899,-16.810645,76.288819)"
+           id="g1674">
+          <circle
+             style="fill:none;fill-opacity:1;stroke:#182c2c;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="path1630"
+             cx="-82.121696"
+             cy="369.63251"
+             r="9.0926485" />
+          <path
+             id="circle1632"
+             style="fill:none;fill-opacity:1;stroke:#b2ffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -88.55117,376.06198 c -1.645446,-1.64544 -2.663175,-3.9186 -2.663175,-6.42947 0,-2.51087 1.01773,-4.78403 2.663175,-6.42947 1.645446,-1.64545 3.918608,-2.66318 6.429474,-2.66318 2.510866,0 4.784028,1.01773 6.429474,2.66318 1.645445,1.64544 2.663174,3.9186 2.663174,6.42947"
+             sodipodi:nodetypes="cssssc" />
+        </g>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.6275px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.284664"
+       x="584.09418"
+       y="246.38597"
+       id="text962"><tspan
+         sodipodi:role="line"
+         id="tspan960"
+         x="584.09418"
+         y="246.38597"
+         style="font-weight:bold;fill:#ececec;stroke-width:0.284664">Proposal 1</tspan></text>
+    <text
+       id="text4387"
+       y="401.40433"
+       x="585.13947"
+       style="font-size:10.6275px;line-height:1.25;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.284664"
+       xml:space="preserve"><tspan
+         style="font-weight:bold;fill:#ececec;stroke-width:0.284664"
+         y="401.40433"
+         x="585.13947"
+         id="tspan4385"
+         sodipodi:role="line">Proposal 2</tspan></text>
+    <g
+       id="Tab-256"
+       data-name="Tab"
+       transform="translate(552.69959,446.10159)">
+      <g
+         id="Divider-103"
+         data-name="Divider"
+         transform="translate(0,46)">
+        <rect
+           y="0"
+           x="0"
+           id="Bar-35"
+           data-name="Bar"
+           width="480"
+           height="2"
+           rx="1"
+           fill="#4a4a4a" />
+      </g>
+      <rect
+         y="0"
+         x="0"
+         id="Underline-52"
+         data-name="Underline"
+         width="76"
+         height="2"
+         rx="1"
+         transform="translate(0,46)"
+         fill="#378ef0" />
+      <g
+         id="Tab-257"
+         data-name="Tab">
+        <text
+           id="Label-247"
+           data-name="Label"
+           transform="translate(26,28)"
+           fill="#4b9cf5"
+           font-size="14px"
+           font-family="AdobeClean-Regular, 'Adobe Clean'"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter"
+             x="0"
+             y="0"
+             id="tspan6287">Tab 1</tspan></text>
+        <g
+           id="Icon-150"
+           data-name="Icon"
+           transform="translate(0,15)">
+          <rect
+             y="0"
+             x="0"
+             id="Frame-406"
+             data-name="Frame"
+             width="18"
+             height="18"
+             fill="#ff00ff"
+             opacity="0" />
+          <path
+             id="Shape-452"
+             data-name="Shape"
+             d="M 16.448,7.9 H 14.894 A 5.967,5.967 0 0 0 13.973,5.646 l 1.1,-1.1 a 0.551,0.551 0 0 0 0,-0.78 L 14.237,2.93 a 0.552,0.552 0 0 0 -0.78,0 l -1.1,1.1 A 5.967,5.967 0 0 0 10.1,3.106 V 1.552 A 0.552,0.552 0 0 0 9.552,1 h -1.1 A 0.552,0.552 0 0 0 7.9,1.552 V 3.106 A 5.967,5.967 0 0 0 5.647,4.027 l -1.1,-1.1 a 0.552,0.552 0 0 0 -0.78,0 L 2.931,3.763 a 0.551,0.551 0 0 0 0,0.78 l 1.1,1.1 A 5.967,5.967 0 0 0 3.106,7.9 H 1.552 A 0.552,0.552 0 0 0 1,8.448 v 1.1 A 0.552,0.552 0 0 0 1.552,10.1 h 1.554 a 5.966,5.966 0 0 0 0.921,2.254 l -1.1,1.1 a 0.551,0.551 0 0 0 0,0.78 l 0.836,0.836 a 0.552,0.552 0 0 0 0.78,0 l 1.1,-1.1 a 5.967,5.967 0 0 0 2.254,0.921 v 1.554 A 0.552,0.552 0 0 0 8.448,17 h 1.1 A 0.552,0.552 0 0 0 10.1,16.448 v -1.554 a 5.967,5.967 0 0 0 2.254,-0.921 l 1.1,1.1 a 0.552,0.552 0 0 0 0.78,0 l 0.836,-0.836 a 0.551,0.551 0 0 0 0,-0.78 l -1.1,-1.1 a 5.966,5.966 0 0 0 0.921,-2.254 h 1.554 A 0.552,0.552 0 0 0 17,9.552 v -1.1 A 0.552,0.552 0 0 0 16.448,7.9 Z M 11.207,9 A 2.207,2.207 0 1 1 9,6.793 2.207,2.207 0 0 1 11.207,9 Z"
+             fill="#378ef0" />
+        </g>
+      </g>
+      <g
+         id="Tab-258"
+         data-name="Tab"
+         transform="translate(100)">
+        <text
+           id="Label-248"
+           data-name="Label"
+           transform="translate(26,28)"
+           fill="#ffffff"
+           font-size="14px"
+           font-family="AdobeClean-Regular, 'Adobe Clean'"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter"
+             x="0"
+             y="0"
+             id="tspan6294">Tab 2</tspan></text>
+        <g
+           id="Icon-151"
+           data-name="Icon"
+           transform="translate(0,15)">
+          <rect
+             y="0"
+             x="0"
+             id="Frame-407"
+             data-name="Frame"
+             width="18"
+             height="18"
+             fill="#ff00ff"
+             opacity="0" />
+          <path
+             id="Shape-453"
+             data-name="Shape"
+             d="M 16.448,7.9 H 14.894 A 5.967,5.967 0 0 0 13.973,5.646 l 1.1,-1.1 a 0.551,0.551 0 0 0 0,-0.78 L 14.237,2.93 a 0.552,0.552 0 0 0 -0.78,0 l -1.1,1.1 A 5.967,5.967 0 0 0 10.1,3.106 V 1.552 A 0.552,0.552 0 0 0 9.552,1 h -1.1 A 0.552,0.552 0 0 0 7.9,1.552 V 3.106 A 5.967,5.967 0 0 0 5.647,4.027 l -1.1,-1.1 a 0.552,0.552 0 0 0 -0.78,0 L 2.931,3.763 a 0.551,0.551 0 0 0 0,0.78 l 1.1,1.1 A 5.967,5.967 0 0 0 3.106,7.9 H 1.552 A 0.552,0.552 0 0 0 1,8.448 v 1.1 A 0.552,0.552 0 0 0 1.552,10.1 h 1.554 a 5.966,5.966 0 0 0 0.921,2.254 l -1.1,1.1 a 0.551,0.551 0 0 0 0,0.78 l 0.836,0.836 a 0.552,0.552 0 0 0 0.78,0 l 1.1,-1.1 a 5.967,5.967 0 0 0 2.254,0.921 v 1.554 A 0.552,0.552 0 0 0 8.448,17 h 1.1 A 0.552,0.552 0 0 0 10.1,16.448 v -1.554 a 5.967,5.967 0 0 0 2.254,-0.921 l 1.1,1.1 a 0.552,0.552 0 0 0 0.78,0 l 0.836,-0.836 a 0.551,0.551 0 0 0 0,-0.78 l -1.1,-1.1 a 5.966,5.966 0 0 0 0.921,-2.254 h 1.554 A 0.552,0.552 0 0 0 17,9.552 v -1.1 A 0.552,0.552 0 0 0 16.448,7.9 Z M 11.207,9 A 2.207,2.207 0 1 1 9,6.793 2.207,2.207 0 0 1 11.207,9 Z"
+             fill="#ffffff" />
+        </g>
+      </g>
+      <g
+         id="Tab-259"
+         data-name="Tab"
+         transform="translate(202)">
+        <text
+           id="Label-249"
+           data-name="Label"
+           transform="translate(26,28)"
+           fill="#b9b9b9"
+           font-size="14px"
+           font-family="AdobeClean-Regular, 'Adobe Clean'"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter"
+             x="0"
+             y="0"
+             id="tspan6301">Tab 3</tspan></text>
+        <g
+           id="Icon-152"
+           data-name="Icon"
+           transform="translate(0,15)">
+          <rect
+             y="0"
+             x="0"
+             id="Frame-408"
+             data-name="Frame"
+             width="18"
+             height="18"
+             fill="#ff00ff"
+             opacity="0" />
+          <path
+             id="Shape-454"
+             data-name="Shape"
+             d="M 16.448,7.9 H 14.894 A 5.967,5.967 0 0 0 13.973,5.646 l 1.1,-1.1 a 0.551,0.551 0 0 0 0,-0.78 L 14.237,2.93 a 0.552,0.552 0 0 0 -0.78,0 l -1.1,1.1 A 5.967,5.967 0 0 0 10.1,3.106 V 1.552 A 0.552,0.552 0 0 0 9.552,1 h -1.1 A 0.552,0.552 0 0 0 7.9,1.552 V 3.106 A 5.967,5.967 0 0 0 5.647,4.027 l -1.1,-1.1 a 0.552,0.552 0 0 0 -0.78,0 L 2.931,3.763 a 0.551,0.551 0 0 0 0,0.78 l 1.1,1.1 A 5.967,5.967 0 0 0 3.106,7.9 H 1.552 A 0.552,0.552 0 0 0 1,8.448 v 1.1 A 0.552,0.552 0 0 0 1.552,10.1 h 1.554 a 5.966,5.966 0 0 0 0.921,2.254 l -1.1,1.1 a 0.551,0.551 0 0 0 0,0.78 l 0.836,0.836 a 0.552,0.552 0 0 0 0.78,0 l 1.1,-1.1 a 5.967,5.967 0 0 0 2.254,0.921 v 1.554 A 0.552,0.552 0 0 0 8.448,17 h 1.1 A 0.552,0.552 0 0 0 10.1,16.448 v -1.554 a 5.967,5.967 0 0 0 2.254,-0.921 l 1.1,1.1 a 0.552,0.552 0 0 0 0.78,0 l 0.836,-0.836 a 0.551,0.551 0 0 0 0,-0.78 l -1.1,-1.1 a 5.966,5.966 0 0 0 0.921,-2.254 h 1.554 A 0.552,0.552 0 0 0 17,9.552 v -1.1 A 0.552,0.552 0 0 0 16.448,7.9 Z M 11.207,9 A 2.207,2.207 0 1 1 9,6.793 2.207,2.207 0 0 1 11.207,9 Z"
+             fill="#b9b9b9" />
+        </g>
+      </g>
+      <g
+         id="Tab-260"
+         data-name="Tab"
+         transform="translate(304)">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter"
+           id="Label-250"
+           data-name="Label"
+           transform="translate(26,28)"
+           fill="#b9b9b9"
+           font-size="14px"
+           font-family="AdobeClean-Regular, 'Adobe Clean'"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter"
+             x="0"
+             y="0"
+             id="tspan6308">Tab 4</tspan></text>
+        <g
+           id="Icon-153"
+           data-name="Icon"
+           transform="translate(0,15)">
+          <rect
+             y="0"
+             x="0"
+             id="Frame-409"
+             data-name="Frame"
+             width="18"
+             height="18"
+             fill="#ff00ff"
+             opacity="0" />
+          <path
+             id="Shape-455"
+             data-name="Shape"
+             d="M 16.448,7.9 H 14.894 A 5.967,5.967 0 0 0 13.973,5.646 l 1.1,-1.1 a 0.551,0.551 0 0 0 0,-0.78 L 14.237,2.93 a 0.552,0.552 0 0 0 -0.78,0 l -1.1,1.1 A 5.967,5.967 0 0 0 10.1,3.106 V 1.552 A 0.552,0.552 0 0 0 9.552,1 h -1.1 A 0.552,0.552 0 0 0 7.9,1.552 V 3.106 A 5.967,5.967 0 0 0 5.647,4.027 l -1.1,-1.1 a 0.552,0.552 0 0 0 -0.78,0 L 2.931,3.763 a 0.551,0.551 0 0 0 0,0.78 l 1.1,1.1 A 5.967,5.967 0 0 0 3.106,7.9 H 1.552 A 0.552,0.552 0 0 0 1,8.448 v 1.1 A 0.552,0.552 0 0 0 1.552,10.1 h 1.554 a 5.966,5.966 0 0 0 0.921,2.254 l -1.1,1.1 a 0.551,0.551 0 0 0 0,0.78 l 0.836,0.836 a 0.552,0.552 0 0 0 0.78,0 l 1.1,-1.1 a 5.967,5.967 0 0 0 2.254,0.921 v 1.554 A 0.552,0.552 0 0 0 8.448,17 h 1.1 A 0.552,0.552 0 0 0 10.1,16.448 v -1.554 a 5.967,5.967 0 0 0 2.254,-0.921 l 1.1,1.1 a 0.552,0.552 0 0 0 0.78,0 l 0.836,-0.836 a 0.551,0.551 0 0 0 0,-0.78 l -1.1,-1.1 a 5.966,5.966 0 0 0 0.921,-2.254 h 1.554 A 0.552,0.552 0 0 0 17,9.552 v -1.1 A 0.552,0.552 0 0 0 16.448,7.9 Z M 11.207,9 A 2.207,2.207 0 1 1 9,6.793 2.207,2.207 0 0 1 11.207,9 Z"
+             fill="#b9b9b9" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
