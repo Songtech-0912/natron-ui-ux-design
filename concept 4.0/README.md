@@ -8,6 +8,8 @@ A improved, free and open-source design of Natron's UI, with a modern interface 
 
 * customizable and themable
 
+Currently, the main focus of this design is the original Anima Design System for Natron. View the prototype components [here](Dev%20Files/Artboard.svg).
+
 ## Contribution Guide
 
 This project is going to be a massive, time-consuming undertaking, and I will never be able to finish it alone. I ask for anyone who uses Natron, and supports free and open-source, to contribute to this open-source design.
