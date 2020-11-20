@@ -13,6 +13,12 @@ Here is the current design of the Natron UI/UX Design Project:
 
 ### Latest Design 
 
+**Version 4.0 (in development)**
+
+![](https://pixls-discuss.s3.dualstack.us-east-1.amazonaws.com/original/3X/5/2/52908b3bd6042df7bd3fcd683f78deb6c4ab1c8d.svg)
+
+[Get a sneak peak of Natron UI Redesign V4](concept%204.0/README.md)
+
 **Version 3.0**
 
 <img src="concept 3.0/Final Design.png" width="960">
