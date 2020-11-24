@@ -26,6 +26,8 @@ Some guidelines on contributions:
 
 * Anyone can contribute to this project
 
+* All contributions will be protected under a GPL v3/CC-BY-SA license (both are equivalent) 
+
 For an extensive guide to contribution, please visit the [Contributor Covenant](CODE_OF_CONDUCT.md)
 
 ## Key Issues to Solve

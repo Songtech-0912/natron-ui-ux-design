@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="300"
-   inkscape:export-xdpi="300"
-   inkscape:export-filename="/home/songtech/Downloads/Mockup-Theme.png"
+   inkscape:export-ydpi="150"
+   inkscape:export-xdpi="150"
+   inkscape:export-filename="/home/songtech/Projects/Natron UI Project/Git/concept 4.0/Dev Files/Mockups/Natron-Minimalist-Theme-UI-Shot.png"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="Natron-Minimalist-Theme-UI-Shot.svg"
    id="SVGRoot"
@@ -406,7 +406,7 @@
        height="1.1594714">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="27.90318"
+         stdDeviation="12.251746435794733"
          id="feGaussianBlur28092" />
     </filter>
   </defs>
@@ -418,10 +418,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7071068"
-     inkscape:cx="667.08093"
-     inkscape:cy="361.13637"
+     inkscape:cx="568.89382"
+     inkscape:cy="468.76102"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -464,22 +464,43 @@
   </metadata>
   <g
      inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="Interface"
-     transform="translate(0,-0.00363152)"
+     id="layer2"
+     inkscape:label="Base BG"
      style="display:inline">
     <rect
-       style="opacity:1;fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:1.19016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.43243;filter:url(#filter28090)"
+       style="fill:#2f2f2f;stroke:#2e3440;stroke-width:1.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.43243;fill-opacity:1"
+       id="rect2942"
+       width="1322.8568"
+       height="857.74597"
+       x="0"
+       y="0"
+       ry="0.92137003" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Shadow"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:1;fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:1.19016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:6.43243;filter:url(#filter28090)"
        id="rect8815"
        width="1294.3014"
        height="839.86993"
        x="14.531038"
        y="14.534669"
        ry="0.94127089"
-       transform="matrix(0.95442326,0,0,0.95442326,29.903973,14.208709)" />
+       transform="matrix(0.8690875,0,0,0.86747291,86.369107,51.982363)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Interface"
+     transform="translate(0,-0.00363152)"
+     style="display:inline">
     <g
        id="g8748"
-       transform="matrix(0.90080342,0,0,0.90080342,65.611436,42.543107)">
+       transform="matrix(0.85097511,0,0,0.85097511,98.99785,64.591337)"
+       style="display:inline">
       <rect
          style="display:inline;fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:4.64942;stroke-miterlimit:10"
          id="rect3507"
