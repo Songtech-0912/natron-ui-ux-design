@@ -19,7 +19,13 @@ Here is the current design of the Natron UI/UX Design Project:
 
 ![](concept%204.0/Dev%20Files/Mockups/Natron-Minimalist-Theme-UI-Shot.png)
 
-[Get a sneak peak of Natron UI Redesign V4](concept%204.0/README.md)
+*Current GUI design for Natron (application)*
+
+![](concept%204.0/Dev%20Files/Mockups/Website-Mockup-New-Layout-Concept-8a.png)
+
+*Current UI design for Natron (website)*
+
+[Get a sneak peak of Natron UI Redesign V4](concept%204.0)
 
 **Version 3.0**
 
@@ -49,9 +55,9 @@ There are many ways to contribute to this project:
 - (Politely) giving criticism of other's designs
 
 ## Code of Conduct
-See [code of conduct]
+This project follows the [Sensible Code of Conduct](https://github.com/Songtech-0912/SCoC). Essentially, this means that we agree to act responsibly and sensibly while collaborating on this project. See [code of conduct] for more details.
 
- [code of conduct]: refs/code-of-conduct.md
+ [code of conduct]: code-of-conduct/code-of-conduct.md
  [Natron's GUI]: https://github.com/NatronGitHub/Natron
  [v4 folder]: concept%204.0/README.md
  
