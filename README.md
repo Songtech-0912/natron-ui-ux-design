@@ -9,6 +9,16 @@ This is a repository for anyone interested in UI/UX design to work together on i
 
 Currently, the design is in its 4th iteration (Version 4.0). To learn more, contribute or see the latest designs, go to the [v4 folder].
 
+## Design Process
+
+My design process is very simple - learn, design, and record. I take time to learn UI design and Inkscape, then design my UI concepts in Inkscape, and lastly, publish my work (and extensive design documentation) onto `git`, where I can share with others.
+
+I've always wanted for this project to be part of the Open Design movement - like a Dribbble without the proprietary bits. That's why I continue to share work in the hackable SVG format, which doesn't require expensive software to open, and can be viewed with just a web browser.
+
+Every design you see in this repository was made in **100% free and open-source software**. I've used Inkscape to create nearly all of my UI mockups, and I'm still staggered to see how amazing Inkscape performs in UI design (it was never designed to do this). Once [Akira](https://github.com/akiraux/Akira) becomes mature enough, I will incorporate it into my workflow as well.
+
+If you want to read more about my design progress on designing for Natron, visit [the project's blog](https://write.as/songtech-0912/).
+
 ## Designs
 
 Here is the current design of the Natron UI/UX Design Project:
@@ -37,15 +47,15 @@ Here is the current design of the Natron UI/UX Design Project:
 
 Here are legacy designs of previous releases
 
-**Version 2.0**
+<details>
+    <summary><strong>Version 2.0</strong></summary>
+    <img src="concept%202.0/PNG/Final%20Design.png"/>
+</details>
 
-![](concept%202.0/PNG/Final%20Design.png)
-
-**Version 1.0**
-
-![](concept%201.0/Mockup.svg)
-
-
+<details>
+    <summary><strong>Version 1.0</strong></summary>
+    <img src="concept%201.0/Mockup.svg"/>
+</details>
 
 ## Contributing
 There are many ways to contribute to this project:
