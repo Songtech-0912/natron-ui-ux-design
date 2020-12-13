@@ -25,9 +25,9 @@ Here is the current design of the Natron UI/UX Design Project:
 
 ### Latest Design 
 
-**Version 4.0 (in development)**
+**Version 4.0**
 
-![](concept%204.0/Dev%20Files/Mockups/Natron-Minimalist-Theme-UI-Shot.png)
+![](concept%204.0/Release%20Files/Design/Natron-UI-4.0-Stylized.svg)
 
 *Current GUI design for Natron (application)*
 
@@ -35,17 +35,17 @@ Here is the current design of the Natron UI/UX Design Project:
 
 *Current UI design for Natron (website)*
 
-[Get a sneak peak of Natron UI Redesign V4](concept%204.0)
+[Read more about this design](concept%204.0/Release%20Files/README.md)
+
+### Previous Designs
+
+Here are legacy designs of previous releases:
 
 **Version 3.0**
 
 ![](concept%203.0/Final%20Design.png)
 
 [Read more about this design](concept%203.0/README.md)
-
-### Previous Designs
-
-Here are legacy designs of previous releases
 
 <details>
     <summary><strong>Version 2.0</strong></summary>
