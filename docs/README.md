@@ -1,6 +1,6 @@
 # Project Documentation
 
-This page will one day cover all of the design systems, concepts, and components that will be part of the Natron UI/UX Redesign. I hope to make it as comprehensive as Google's [Material Design Documentation].
+This page will one day cover all the design systems, concepts, and components that will be part of the Natron UI/UX Redesign. I hope to make it as comprehensive as Google's [Material Design Documentation].
 
 
 Unfortunately, we're not there yet. So here's a preview of things I hope to implement:
