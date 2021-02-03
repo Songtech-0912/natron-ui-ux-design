@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1920px"
@@ -13,12 +14,235 @@
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="Community-Badge-Concept.svg"
-   inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design9.png"
+   inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design14.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <defs
      id="defs1659">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4086">
+      <stop
+         style="stop-color:#2c323c;stop-opacity:1"
+         offset="0"
+         id="stop4082" />
+      <stop
+         style="stop-color:#434c5d;stop-opacity:1"
+         offset="1"
+         id="stop4084" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4080"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="8"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3886"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="8"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3882"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="8"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3878"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="8"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3876"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8 @ C,0,0,1,0,12,0,8"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="8"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2145"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="10"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2100"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,17,0,8 @ C,0,0,1,0,17,0,8 @ C,0,0,1,0,17,0,8 @ C,0,0,1,0,17,0,8 @ C,0,0,1,0,17,0,8 @ C,0,0,1,0,17,0,8"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="17"
+       chamfer_steps="8"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2093"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="10"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1359"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,15,0,14 @ C,0,0,1,0,15,0,14 @ C,0,0,1,0,15,0,14 @ C,0,0,1,0,15,0,14 @ C,0,0,1,0,15,0,14 @ C,0,0,1,0,15,0,14"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="15"
+       chamfer_steps="14"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1232"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="10"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1175">
+      <stop
+         style="stop-color:#2c323c;stop-opacity:1"
+         offset="0"
+         id="stop1171" />
+      <stop
+         style="stop-color:#343a46;stop-opacity:1"
+         offset="0.25"
+         id="stop1200" />
+      <stop
+         style="stop-color:#424b5e;stop-opacity:1"
+         offset="0.5"
+         id="stop1198" />
+      <stop
+         style="stop-color:#4f5a6d;stop-opacity:1"
+         offset="0.75"
+         id="stop1202" />
+      <stop
+         style="stop-color:#566479;stop-opacity:1"
+         offset="1"
+         id="stop1173" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1114"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10 @ C,0,0,1,0,12,0,10"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="12"
+       chamfer_steps="10"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect2349"
@@ -464,8 +688,8 @@
     <rect
        x="-7399.4819"
        y="18750.99"
-       width="58.764075"
-       height="17.504691"
+       width="55.833123"
+       height="15.754648"
        id="rect1728" />
     <rect
        x="-7399.4819"
@@ -488,8 +712,8 @@
     <rect
        x="-7399.4819"
        y="18750.99"
-       width="60.010368"
-       height="40.579483"
+       width="58.04801"
+       height="15.020893"
        id="rect1742" />
     <rect
        x="-7399.4819"
@@ -559,6 +783,26 @@
          stdDeviation="15.108026"
          id="feGaussianBlur19275" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1175"
+       id="linearGradient1177"
+       x1="938.23242"
+       y1="2678.6348"
+       x2="1323.6012"
+       y2="2456.1421"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(490.59789,-757.5722)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4086"
+       id="linearGradient4088"
+       x1="1077.8444"
+       y1="1863.1272"
+       x2="2019.4787"
+       y2="1863.1272"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(131.21128)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -567,9 +811,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2043.669"
-     inkscape:cy="1305.5581"
+     inkscape:zoom="0.25"
+     inkscape:cx="386.64172"
+     inkscape:cy="-2.899247"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -591,7 +835,12 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="false" />
+     inkscape:snap-center="false">
+    <sodipodi:guide
+       position="7940.474,-2421.05"
+       orientation="0,-1"
+       id="guide2016" />
+  </sodipodi:namedview>
   <metadata
      id="metadata1662">
     <rdf:RDF>
@@ -608,6 +857,104 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       id="path3852"
+       style="opacity:1;fill:#babfca;fill-opacity:1;stroke:none;stroke-width:39.4692;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 8508.5435,947.74065 -394.4303,-227.7245 -2.2606,-1.51046 -2.044,-1.7926 -1.7926,-2.04407 -1.5105,-2.26056 -1.2025,-2.43838 -0.8739,-2.57448 -0.5304,-2.66651 -0.1778,-2.71294 v -455.4499 l 0.1778,-2.71294 0.5304,-2.66651 0.8739,-2.57448 1.2025,-2.43838 1.5105,-2.26056 1.7926,-2.04407 2.044,-1.79261 2.2606,-1.51046 394.4303,-227.72480266 2.4384,-1.20247664 2.5744,-0.8739167 2.6666,-0.5304037 2.7129,-0.1778154 2.7129,0.1778154 2.6666,0.5304037 2.5744,0.8739167 2.4384,1.20247664 394.4303,227.72480266 2.2606,1.51046 2.044,1.79261 1.7926,2.04407 1.5105,2.26056 1.2025,2.43838 0.8739,2.57448 0.5304,2.66651 0.1778,2.71294 v 455.4499 l -0.1778,2.71294 -0.5304,2.66651 -0.8739,2.57448 -1.2025,2.43838 -1.5105,2.26056 -1.7926,2.04407 -2.044,1.7926 -2.2606,1.51046 -394.4303,227.7245 -2.4384,1.20247 -2.5744,0.87392 -2.6666,0.5304 -2.7129,0.17782 -2.7129,-0.17782 -2.6666,-0.5304 -2.5744,-0.87392 z"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:path-effect="#path-effect3876"
+       inkscape:original-d="M 8518.9358,953.74065 8103.7209,714.01615 V 234.56625 L 8518.9358,-5.1585699 8934.1507,234.56625 v 479.4499 z" />
+    <path
+       id="path3850"
+       style="opacity:1;fill:#babfca;fill-opacity:1;stroke:none;stroke-width:39.4692;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 7320.9818,947.74065 -394.4303,-227.7245 -2.2606,-1.51046 -2.044,-1.7926 -1.7926,-2.04407 -1.5105,-2.26056 -1.2025,-2.43838 -0.8739,-2.57448 -0.5304,-2.66651 -0.1778,-2.71294 v -455.4499 l 0.1778,-2.71294 0.5304,-2.66651 0.8739,-2.57448 1.2025,-2.43838 1.5105,-2.26056 1.7926,-2.04407 2.044,-1.79261 2.2606,-1.51046 394.4303,-227.72480266 2.4384,-1.20247664 2.5744,-0.8739167 2.6666,-0.5304037 2.7129,-0.1778154 2.7129,0.1778154 2.6666,0.5304037 2.5744,0.8739167 2.4384,1.20247664 394.4303,227.72480266 2.2606,1.51046 2.044,1.79261 1.7926,2.04407 1.5105,2.26056 1.2025,2.43838 0.8739,2.57448 0.5304,2.66651 0.1778,2.71294 v 455.4499 l -0.1778,2.71294 -0.5304,2.66651 -0.8739,2.57448 -1.2025,2.43838 -1.5105,2.26056 -1.7926,2.04407 -2.044,1.7926 -2.2606,1.51046 -394.4303,227.7245 -2.4384,1.20247 -2.5744,0.87392 -2.6666,0.5304 -2.7129,0.17782 -2.7129,-0.17782 -2.6666,-0.5304 -2.5744,-0.87392 z"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:path-effect="#path-effect3878"
+       inkscape:original-d="M 7331.3741,953.74065 6916.1592,714.01615 V 234.56625 L 7331.3741,-5.1585699 7746.589,234.56625 v 479.4499 z" />
+    <g
+       id="g3779"
+       transform="matrix(0.49610363,0,0,0.49610363,-4859.1398,-4194.3839)"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g3757"
+         transform="translate(0,-2466.9824)">
+        <path
+           id="path3718"
+           style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="m 26238.15,12159.107 -5.763,3.329 v 820.8 l 386.039,222.881 z" />
+        <path
+           id="path3726"
+           style="fill:#313744;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="m 26645.518,11923.912 -407.368,235.195 380.276,1047.01 324.793,187.52 195.177,-112.686 z" />
+        <path
+           id="path3741"
+           style="fill:#373e4d;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="m 26943.221,11752.033 -297.703,171.879 492.879,1357.039 407.367,-235.193 -434.683,-1196.811 z" />
+        <path
+           id="path3747"
+           style="fill:#434c5d;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="m 27111.082,11848.948 434.681,1196.809 108.289,-62.522 v -820.8 z" />
+      </g>
+      <g
+         id="g3767"
+         transform="translate(0,-2466.9824)">
+        <path
+           id="path3759"
+           style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="m 26238.15,12159.107 -5.763,3.329 v 820.8 l 386.039,222.881 z" />
+        <path
+           id="path3761"
+           style="fill:#313744;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="m 26645.518,11923.912 -407.368,235.195 380.276,1047.01 324.793,187.52 195.177,-112.686 z" />
+        <path
+           id="path3763"
+           style="fill:#373e4d;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="m 26943.221,11752.033 -297.703,171.879 492.879,1357.039 407.367,-235.193 -434.683,-1196.811 z" />
+        <path
+           id="path3765"
+           style="fill:#434c5d;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           d="m 27111.082,11848.948 434.681,1196.809 108.289,-62.522 v -820.8 z" />
+      </g>
+    </g>
+    <g
+       id="g1481"
+       transform="matrix(1.7385935,0,0,1.7385935,2393.4004,-335.88113)"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1479">
+        <rect
+           style="fill:#eceff4;stroke:none;stroke-width:30;stroke-linejoin:round;stop-color:#000000"
+           id="rect1475"
+           width="1920"
+           height="1080"
+           x="0"
+           y="0"
+           rx="0"
+           ry="0" />
+        <path
+           d="M 0,0 V 1080 M 10,0 V 1080 M 20,0 V 1080 M 30,0 V 1080 M 40,0 V 1080 M 50,0 V 1080 M 60,0 V 1080 M 70,0 V 1080 M 80,0 V 1080 M 90,0 V 1080 M 100,0 V 1080 M 110,0 V 1080 M 120,0 V 1080 M 130,0 V 1080 M 140,0 V 1080 M 150,0 V 1080 M 160,0 V 1080 M 170,0 V 1080 M 180,0 V 1080 M 190,0 V 1080 M 200,0 V 1080 M 210,0 V 1080 M 220,0 V 1080 M 230,0 V 1080 M 240,0 V 1080 M 250,0 V 1080 M 260,0 V 1080 M 270,0 V 1080 M 280,0 V 1080 M 290,0 V 1080 M 300,0 V 1080 M 310,0 V 1080 M 320,0 V 1080 M 330,0 V 1080 M 340,0 V 1080 M 350,0 V 1080 M 360,0 V 1080 M 370,0 V 1080 M 380,0 V 1080 M 390,0 V 1080 M 400,0 V 1080 M 410,0 V 1080 M 420,0 V 1080 M 430,0 V 1080 M 440,0 V 1080 M 450,0 V 1080 M 460,0 V 1080 M 470,0 V 1080 M 480,0 V 1080 M 490,0 V 1080 M 500,0 V 1080 M 510,0 V 1080 M 520,0 V 1080 M 530,0 V 1080 M 540,0 V 1080 M 550,0 V 1080 M 560,0 V 1080 M 570,0 V 1080 M 580,0 V 1080 M 590,0 V 1080 M 600,0 V 1080 M 610,0 V 1080 M 620,0 V 1080 M 630,0 V 1080 M 640,0 V 1080 M 650,0 V 1080 M 660,0 V 1080 M 670,0 V 1080 M 680,0 V 1080 M 690,0 V 1080 M 700,0 V 1080 M 710,0 V 1080 M 720,0 V 1080 M 730,0 V 1080 M 740,0 V 1080 M 750,0 V 1080 M 760,0 V 1080 M 770,0 V 1080 M 780,0 V 1080 M 790,0 V 1080 M 800,0 V 1080 M 810,0 V 1080 M 820,0 V 1080 M 830,0 V 1080 M 840,0 V 1080 M 850,0 V 1080 M 860,0 V 1080 M 870,0 V 1080 M 880,0 V 1080 M 890,0 V 1080 M 900,0 V 1080 M 910,0 V 1080 M 920,0 V 1080 M 930,0 V 1080 M 940,0 V 1080 M 950,0 V 1080 M 960,0 V 1080 M 970,0 V 1080 M 980,0 V 1080 M 990,0 V 1080 M 1000,0 V 1080 M 1010,0 V 1080 M 1020,0 V 1080 M 1030,0 V 1080 M 1040,0 V 1080 M 1050,0 V 1080 M 1060,0 V 1080 M 1070,0 V 1080 M 1080,0 V 1080 M 1090,0 V 1080 M 1100,0 V 1080 M 1110,0 V 1080 M 1120,0 V 1080 M 1130,0 V 1080 M 1140,0 V 1080 M 1150,0 V 1080 M 1160,0 V 1080 M 1170,0 V 1080 M 1180,0 V 1080 M 1190,0 V 1080 M 1200,0 V 1080 M 1210,0 V 1080 M 1220,0 V 1080 M 1230,0 V 1080 M 1240,0 V 1080 M 1250,0 V 1080 M 1260,0 V 1080 M 1270,0 V 1080 M 1280,0 V 1080 M 1290,0 V 1080 M 1300,0 V 1080 M 1310,0 V 1080 M 1320,0 V 1080 M 1330,0 V 1080 M 1340,0 V 1080 M 1350,0 V 1080 M 1360,0 V 1080 M 1370,0 V 1080 M 1380,0 V 1080 M 1390,0 V 1080 M 1400,0 V 1080 M 1410,0 V 1080 M 1420,0 V 1080 M 1430,0 V 1080 M 1440,0 V 1080 M 1450,0 V 1080 M 1460,0 V 1080 M 1470,0 V 1080 M 1480,0 V 1080 M 1490,0 V 1080 M 1500,0 V 1080 M 1510,0 V 1080 M 1520,0 V 1080 M 1530,0 V 1080 M 1540,0 V 1080 M 1550,0 V 1080 M 1560,0 V 1080 M 1570,0 V 1080 M 1580,0 V 1080 M 1590,0 V 1080 M 1600,0 V 1080 M 1610,0 V 1080 M 1620,0 V 1080 M 1630,0 V 1080 M 1640,0 V 1080 M 1650,0 V 1080 M 1660,0 V 1080 M 1670,0 V 1080 M 1680,0 V 1080 M 1690,0 V 1080 M 1700,0 V 1080 M 1710,0 V 1080 M 1720,0 V 1080 M 1730,0 V 1080 M 1740,0 V 1080 M 1750,0 V 1080 M 1760,0 V 1080 M 1770,0 V 1080 M 1780,0 V 1080 M 1790,0 V 1080 M 1800,0 V 1080 M 1810,0 V 1080 M 1820,0 V 1080 M 1830,0 V 1080 M 1840,0 V 1080 M 1850,0 V 1080 M 1860,0 V 1080 M 1870,0 V 1080 M 1880,0 V 1080 M 1890,0 V 1080 M 1900,0 V 1080 M 1910,0 V 1080 M 1920,0 V 1080 M 0,0 H 1920 M 0,10 H 1920 M 0,20 H 1920 M 0,30 H 1920 M 0,40 H 1920 M 0,50 H 1920 M 0,60 H 1920 M 0,70 H 1920 M 0,80 H 1920 M 0,90 H 1920 M 0,100 H 1920 M 0,110 H 1920 M 0,120 H 1920 M 0,130 H 1920 M 0,140 H 1920 M 0,150 H 1920 M 0,160 H 1920 M 0,170 H 1920 M 0,180 H 1920 M 0,190 H 1920 M 0,200 H 1920 M 0,210 H 1920 M 0,220 H 1920 M 0,230 H 1920 M 0,240 H 1920 M 0,250 H 1920 M 0,260 H 1920 M 0,270 H 1920 M 0,280 H 1920 M 0,290 H 1920 M 0,300 H 1920 M 0,310 H 1920 M 0,320 H 1920 M 0,330 H 1920 M 0,340 H 1920 M 0,350 H 1920 M 0,360 H 1920 M 0,370 H 1920 M 0,380 H 1920 M 0,390 H 1920 M 0,400 H 1920 M 0,410 H 1920 M 0,420 H 1920 M 0,430 H 1920 M 0,440 H 1920 M 0,450 H 1920 M 0,460 H 1920 M 0,470 H 1920 M 0,480 H 1920 M 0,490 H 1920 M 0,500 H 1920 M 0,510 H 1920 M 0,520 H 1920 M 0,530 H 1920 M 0,540 H 1920 M 0,550 H 1920 M 0,560 H 1920 M 0,570 H 1920 M 0,580 H 1920 M 0,590 H 1920 M 0,600 H 1920 M 0,610 H 1920 M 0,620 H 1920 M 0,630 H 1920 M 0,640 H 1920 M 0,650 H 1920 M 0,660 H 1920 M 0,670 H 1920 M 0,680 H 1920 M 0,690 H 1920 M 0,700 H 1920 M 0,710 H 1920 M 0,720 H 1920 M 0,730 H 1920 M 0,740 H 1920 M 0,750 H 1920 M 0,760 H 1920 M 0,770 H 1920 M 0,780 H 1920 M 0,790 H 1920 M 0,800 H 1920 M 0,810 H 1920 M 0,820 H 1920 M 0,830 H 1920 M 0,840 H 1920 M 0,850 H 1920 M 0,860 H 1920 M 0,870 H 1920 M 0,880 H 1920 M 0,890 H 1920 M 0,900 H 1920 M 0,910 H 1920 M 0,920 H 1920 M 0,930 H 1920 M 0,940 H 1920 M 0,950 H 1920 M 0,960 H 1920 M 0,970 H 1920 M 0,980 H 1920 M 0,990 H 1920 M 0,1000 H 1920 M 0,1010 H 1920 M 0,1020 H 1920 M 0,1030 H 1920 M 0,1040 H 1920 M 0,1050 H 1920 M 0,1060 H 1920 M 0,1070 H 1920 M 0,1080 h 1920"
+           style="opacity:0.18542;fill:none;stroke:#000000;stroke-width:1px"
+           id="path1477" />
+      </g>
+    </g>
+    <path
+       id="path1356"
+       style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:69.3336;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       d="m 3287.7672,1236.1762 -475.7717,-294.78264 -1.6233,-1.08918 -1.54,-1.20402 -1.4486,-1.31253 -1.3496,-1.41412 -1.2436,-1.50827 -1.1309,-1.59447 -1.0123,-1.67228 -0.8884,-1.74129 -0.7597,-1.80112 -0.6272,-1.85147 -0.4912,-1.89208 -0.3528,-1.92271 -0.2124,-1.94324 -0.071,-1.95352 v -672.6248 l 0.071,-1.95352 0.2124,-1.94324 0.3528,-1.92272 0.4912,-1.89207 0.6272,-1.85147 0.7597,-1.80113 0.8884,-1.74128 1.0123,-1.67228 1.1309,-1.59447 1.2436,-1.50827 1.3496,-1.41412 1.4486,-1.31253 1.54,-1.20402 1.6233,-1.08919 475.7715,-294.782632 1.6691,-0.944777 1.7386,-0.809688 1.7973,-0.669517 1.8447,-0.525143 1.8804,-0.377475 1.9044,-0.227437 1.9164,-0.07597 1.9164,0.07597 1.9044,0.227436 1.8804,0.377474 1.8447,0.525143 1.7973,0.669517 1.7386,0.809687 1.6691,0.944777 475.7718,294.782645 1.6233,1.08918 1.54,1.20403 1.4486,1.31252 1.3496,1.41412 1.2436,1.50827 1.1309,1.59447 1.0123,1.67228 0.8884,1.74129 0.7597,1.80112 0.6272,1.85147 0.4912,1.89208 0.3528,1.92271 0.2124,1.94324 0.071,1.95352 v 672.6248 l -0.071,1.95352 -0.2124,1.94324 -0.3528,1.92272 -0.4912,1.89207 -0.6272,1.85147 -0.7597,1.80112 -0.8884,1.74129 -1.0123,1.67228 -1.1309,1.59447 -1.2436,1.50827 -1.3496,1.41412 -1.4486,1.31253 -1.54,1.20402 -1.6233,1.08918 -475.7716,294.78264 -1.6691,0.9448 -1.7386,0.8097 -1.7973,0.6695 -1.8447,0.5251 -1.8804,0.3775 -1.9044,0.2274 -1.9164,0.076 -1.9164,-0.076 -1.9044,-0.2274 -1.8804,-0.3775 -1.8447,-0.5251 -1.7973,-0.6695 -1.7386,-0.8097 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:path-effect="#path-effect1359"
+       inkscape:original-d="M 3300.5181,1244.0765 2799.2446,933.49326 v -702.6248 l 501.2733,-310.583248 501.2736,310.583248 v 702.6248 z"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g19414">
       <g
@@ -631,44 +978,31 @@
        xml:space="preserve"
        id="text1726"
        style="font-size:5.32225px;line-height:1.25;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro';white-space:pre;shape-inside:url(#rect1728);fill:#53565b;fill-opacity:1;"
-       transform="matrix(6.5121169,0,0,6.5121169,48471.837,-121393.48)"
+       transform="matrix(6.5121169,0,0,6.5121169,48580.148,-121303.37)"
        x="28.56168"
        y="0"><tspan
-         x="-7399.079"
+         x="-7397.8667"
          y="18755.916"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">Unchanged, except for </tspan></tspan><tspan
-         x="-7391.5776"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">Additional border for </tspan></tspan><tspan
+         x="-7397.7183"
          y="18762.971"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">shape correction</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text1734"
-       style="font-size:5.32225px;line-height:1.25;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro';white-space:pre;shape-inside:url(#rect1736);fill:#53565b;fill-opacity:1;"
-       transform="matrix(6.5121169,0,0,6.5121169,48992.647,-121393.48)"
-       x="23.935232"
-       y="0"><tspan
-         x="-7394.4772"
-         y="18755.916"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">Shape correction </tspan></tspan><tspan
-         x="-7386.87"
-         y="18762.971"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">and outline</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">more geometric look</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1740"
        style="font-size:5.32225px;line-height:1.25;font-family:'Adobe Garamond Pro';-inkscape-font-specification:'Adobe Garamond Pro';white-space:pre;shape-inside:url(#rect1742);fill:#53565b;fill-opacity:1;"
-       transform="matrix(6.5121169,0,0,6.5121169,49455.344,-121393.48)"
+       transform="matrix(6.5121169,0,0,6.5121169,49325.942,-121303.37)"
        x="28.56168"
        y="0"><tspan
-         x="-7393.7167"
+         x="-7390.4608"
          y="18755.916"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">Shape correction + </tspan></tspan><tspan
-         x="-7390.0171"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">Gradient-based </tspan></tspan><tspan
+         x="-7393.963"
          y="18762.971"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">modified outline</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.32225px;font-family:Inter;-inkscape-font-specification:'Inter Medium';text-align:center;text-anchor:middle;fill:#53565b;fill-opacity:1">variation of border</tspan></tspan></text>
     <g
        id="g18856"
-       transform="translate(-484.40059,-1801.5526)">
+       transform="translate(-2774.4952,-1801.5526)">
       <g
          id="g18828"
          transform="translate(-295.6995,3151.6445)">
@@ -761,7 +1095,7 @@
     </g>
     <g
        id="g18896"
-       transform="translate(-484.40059,-1801.5526)">
+       transform="translate(-2774.4952,-1801.5526)">
       <g
          id="g18868"
          transform="translate(-295.6995,3151.6445)">
@@ -859,10 +1193,10 @@
        inkscape:path-effect="#path-effect19239"
        inkscape:original-d="m -4619.2268,17928.507 -141.1209,-255.055 c 0,0 138.4716,-263.748 145.2825,-264.77 6.8109,-1.022 71.0607,-1.022 71.0607,-1.022 l 189.6446,260.012 5.4782,-258.818 152.3175,258.756 -156.478,261.069 -71.0616,1.021 -189.6443,-260.011 z"
        sodipodi:nodetypes="ccscccccccc"
-       transform="matrix(0.29458852,0,0,0.29458852,2298.8296,-4850.9983)" />
+       transform="matrix(0.29458852,0,0,0.29458852,8.7349923,-4850.9983)" />
     <g
        id="g18003-7"
-       transform="translate(-957.46126,-2609.2688)">
+       transform="translate(-3247.5559,-2609.2688)">
       <path
          id="path17993-5"
          style="fill:#434c5d;fill-opacity:1;stroke:none;stroke-width:12.0196;stroke-miterlimit:1.41421;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -886,7 +1220,7 @@
     </g>
     <g
        id="g17989-9"
-       transform="translate(-1282.6427,1350.0919)">
+       transform="translate(-3572.7373,1350.0919)">
       <path
          id="path17955-1"
          style="fill:#434c5d;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -910,7 +1244,7 @@
     </g>
     <g
        id="g16628-3"
-       transform="matrix(0.26304916,0,0,0.26304916,896.9807,-2896.8833)"
+       transform="matrix(0.26304916,0,0,0.26304916,-1393.1139,-2896.8833)"
        style="stroke:#8999bc;stroke-width:11.8583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
          style="fill:none;stroke:#8999bc;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -980,10 +1314,10 @@
        inkscape:path-effect="#path-effect19111"
        inkscape:original-d="m -4619.2268,17928.507 -141.1209,-255.055 c 0,0 138.4716,-263.748 145.2825,-264.77 6.8109,-1.022 71.0607,-1.022 71.0607,-1.022 l 189.6446,260.012 5.4782,-258.818 152.3175,258.756 -156.478,261.069 -71.0616,1.021 -189.6443,-260.011 z"
        sodipodi:nodetypes="ccscccccccc"
-       transform="matrix(0.39298491,0,0,0.39298491,2236.9496,-6589.5252)" />
+       transform="matrix(0.39298491,0,0,0.39298491,-53.145008,-6589.5252)" />
     <g
        id="g19151"
-       transform="translate(-4.7042149e-4,-1801.5526)">
+       transform="translate(-2290.0951,-1801.5526)">
       <g
          id="g19123"
          transform="translate(-295.6995,3151.6445)">
@@ -1076,7 +1410,7 @@
     </g>
     <g
        id="g19191"
-       transform="translate(-4.7042149e-4,-1801.5526)">
+       transform="translate(-2290.0951,-1801.5526)">
       <g
          id="g19163"
          transform="translate(-295.6995,3151.6445)">
@@ -1170,23 +1504,846 @@
     <path
        id="path19193"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#8999bc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.45;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
-       d="m 1403.1473,239.48458 a 4.2254024,4.2254024 0 0 0 -3.6601,2.1133 l -22.3496,38.7129 7.3164,4.2246 21.1328,-36.6016 h 116.707 l 58.3535,101.0723 -58.3535,101.0703 h -116.707 l -58.3535,-101.0703 18.6738,-32.3438 -7.3184,-4.2246 -19.8925,34.4551 a 4.2254024,4.2254024 0 0 0 0,4.2246 l 60.791,105.2969 a 4.2254024,4.2254024 0 0 0 3.6601,2.1113 h 121.586 a 4.2254024,4.2254024 0 0 0 3.6582,-2.1113 l 60.7929,-105.2969 a 4.2254024,4.2254024 0 0 0 0,-4.2246 l -60.7929,-105.2949 a 4.2254024,4.2254024 0 0 0 -3.6582,-2.1133 z" />
+       d="m -886.94731,239.48458 a 4.2254024,4.2254024 0 0 0 -3.6601,2.1133 l -22.3496,38.7129 7.3164,4.2246 21.1328,-36.6016 h 116.707 l 58.3535,101.0723 -58.3535,101.0703 h -116.707 l -58.3535,-101.0703 18.6738,-32.3438 -7.3184,-4.2246 -19.8925,34.4551 a 4.2254024,4.2254024 0 0 0 0,4.2246 l 60.791,105.2969 a 4.2254024,4.2254024 0 0 0 3.6601,2.1113 h 121.586 a 4.2254024,4.2254024 0 0 0 3.6582,-2.1113 l 60.7929,-105.2969 a 4.2254024,4.2254024 0 0 0 0,-4.2246 l -60.7929,-105.2949 a 4.2254024,4.2254024 0 0 0 -3.6582,-2.1133 z" />
     <path
        style="fill:none;fill-opacity:1;stroke:#8999bc;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1090.1735,347.01886 -49.6095,-85.57292 v 0 c -0.6687,-1.14946 -1.475,-2.094 -2.3476,-2.91177 -1.3139,-1.22094 -2.785,-2.16738 -4.3934,-2.87602 -0.8054,-0.35218 -1.6474,-0.64145 -2.5362,-0.85018 -0.8888,-0.20778 -1.8252,-0.33644 -2.8227,-0.33787 l -99.14429,-0.0553 h 0.028 -0.03 -0.01 c 0,4.44812 0,4.44812 0,0 v 0 c 0,4.44812 0,4.44812 0,0 -1.3301,0.002 -2.5514,0.22588 -3.6967,0.57092 -1.7151,0.52468 -3.2715,1.32291 -4.6907,2.3599 -0.7081,0.52088 -1.3806,1.10466 -2.0063,1.76946 -0.6248,0.66527 -1.2052,1.41156 -1.7061,2.27461 l -49.5143,85.51116 c -0.6658,1.1547 -1.0842,2.32608 -1.3587,3.49174 -0.2712,1.16661 -0.3946,2.33227 -0.3956,3.49744 0,1.16758 0.1254,2.33371 0.3975,3.50127 0.2755,1.16569 0.6948,2.33659 1.3606,3.49034 v -5.4e-4 l 49.61,85.57293 v 5.4e-4 c 0.6691,1.14895 1.4749,2.09399 2.3475,2.91079 1.3139,1.22091 2.7845,2.16734 4.3929,2.87601 0.8054,0.35216 1.6475,0.64141 2.5362,0.85019 0.8888,0.20778 1.8253,0.3364 2.8232,0.33787 l 99.27719,0.0549 0.133,-0.008 c -0.3254,-7.00578 -0.2677,-6.99789 -0.241,0.008 0.043,-4.6e-4 0.1205,-4.6e-4 0.2411,-0.008 -0.3253,-7.00601 -0.2676,-6.99766 -0.2409,0.008 -0.026,-6.91194 -0.017,-6.91194 -0.036,0 h 0.036 c -0.026,-6.91194 -0.017,-6.91194 -0.036,0 v 0 h 0.014 c 1.33,0 2.5515,-0.22687 3.6966,-0.57092 1.7156,-0.52469 3.2711,-1.32248 4.6912,-2.35943 0.7077,-0.5209 1.3802,-1.10419 2.0063,-1.76949 0.6253,-0.6653 1.2048,-1.41207 1.7061,-2.27463 l 49.5105,-85.51094 c 0.6652,-1.15467 1.0841,-2.32612 1.3586,-3.49127 0.2712,-1.16662 0.3946,-2.33275 0.3956,-3.49793 0,-1.16708 -0.1253,-2.33418 -0.3975,-3.50126 -0.275,-1.16614 -0.6948,-2.33703 -1.3601,-3.4903 0,2.9e-4 0.013,-7.8e-4 0.01,6.9e-4 z"
+       d="m -1199.9211,347.01886 -49.6095,-85.57292 v 0 c -0.6687,-1.14946 -1.475,-2.094 -2.3476,-2.91177 -1.3139,-1.22094 -2.785,-2.16738 -4.3934,-2.87602 -0.8054,-0.35218 -1.6474,-0.64145 -2.5362,-0.85018 -0.8888,-0.20778 -1.8252,-0.33644 -2.8227,-0.33787 l -99.1443,-0.0553 h 0.028 -0.03 -0.01 c 0,4.44812 0,4.44812 0,0 v 0 c 0,4.44812 0,4.44812 0,0 -1.3301,0.002 -2.5514,0.22588 -3.6967,0.57092 -1.7151,0.52468 -3.2715,1.32291 -4.6907,2.3599 -0.7081,0.52088 -1.3806,1.10466 -2.0063,1.76946 -0.6248,0.66527 -1.2052,1.41156 -1.7061,2.27461 l -49.5143,85.51116 c -0.6658,1.1547 -1.0842,2.32608 -1.3587,3.49174 -0.2712,1.16661 -0.3946,2.33227 -0.3956,3.49744 0,1.16758 0.1254,2.33371 0.3975,3.50127 0.2755,1.16569 0.6948,2.33659 1.3606,3.49034 v -5.4e-4 l 49.61,85.57293 v 5.4e-4 c 0.6691,1.14895 1.4749,2.09399 2.3475,2.91079 1.3139,1.22091 2.7845,2.16734 4.3929,2.87601 0.8054,0.35216 1.6475,0.64141 2.5362,0.85019 0.8888,0.20778 1.8253,0.3364 2.8232,0.33787 l 99.2772,0.0549 0.133,-0.008 c -0.3254,-7.00578 -0.2677,-6.99789 -0.241,0.008 0.043,-4.6e-4 0.1205,-4.6e-4 0.2411,-0.008 -0.3253,-7.00601 -0.2676,-6.99766 -0.2409,0.008 -0.026,-6.91194 -0.017,-6.91194 -0.036,0 h 0.036 c -0.026,-6.91194 -0.017,-6.91194 -0.036,0 v 0 h 0.014 c 1.33,0 2.5515,-0.22687 3.6966,-0.57092 1.7156,-0.52469 3.2711,-1.32248 4.6912,-2.35943 0.7077,-0.5209 1.3802,-1.10419 2.0063,-1.76949 0.6253,-0.6653 1.2048,-1.41207 1.7061,-2.27463 l 49.5105,-85.51094 c 0.6652,-1.15467 1.0841,-2.32612 1.3586,-3.49127 0.2712,-1.16662 0.3946,-2.33275 0.3956,-3.49793 0,-1.16708 -0.1253,-2.33418 -0.3975,-3.50126 -0.275,-1.16614 -0.6948,-2.33703 -1.3601,-3.4903 0,2.9e-4 0.013,-7.8e-4 0.01,6.9e-4 z"
        id="path19420"
        sodipodi:nodetypes="ccsccccccccccccccccccccccccccccccccccccscccccccccc" />
     <path
        id="path2336"
-       style="fill:#8999bc;stroke:none;stroke-width:27.7226;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
-       d="m 415.5972,257.48992 -50.89459,88.15297 -0.70144,1.42239 -0.50977,1.50178 -0.3094,1.55547 -0.10372,1.58254 0.10374,1.58255 0.3094,1.55547 0.50979,1.50177 0.70145,1.42238 50.89449,88.15107 0.38766,0.47236 0.51892,0.32268 0.59511,0.13876 0.60813,-0.0599 0.5566,-0.2522 0.446,-0.41772 0.28806,-0.53892 0.0995,-0.60291 v -86.27539 l 0.0995,-0.60292 0.28806,-0.53894 0.44601,-0.41773 0.55661,-0.25221 0.60815,-0.0599 0.59512,0.13876 0.51894,0.32268 0.38768,0.47237 50.89627,88.15117 0.88112,1.31865 1.04571,1.19236 1.19239,1.04567 1.31868,0.8811 1.4224,0.70143 1.50178,0.50978 1.55548,0.3094 1.58255,0.10372 h 43.89453 l 1.58254,-0.10373 1.55547,-0.3094 1.50178,-0.50978 1.42239,-0.70144 1.31867,-0.8811 1.19238,-1.04568 1.04569,-1.19237 0.8811,-1.31866 50.89448,-88.15107 0.70145,-1.42238 0.50979,-1.50177 0.30941,-1.55547 0.10373,-1.58255 -0.10372,-1.58254 -0.3094,-1.55547 -0.50977,-1.50178 -0.70144,-1.42239 -50.89458,-88.15297 -0.38765,-0.47236 -0.51892,-0.32268 -0.5951,-0.13876 -0.60812,0.0599 -0.55659,0.25219 -0.446,0.41772 -0.28805,0.53891 -0.0995,0.6029 v 86.27735 l -0.0995,0.6029 -0.28805,0.53891 -0.446,0.41772 -0.55659,0.25219 -0.60812,0.0599 -0.5951,-0.13876 -0.51892,-0.32268 -0.38765,-0.47236 -50.89459,-88.15297 -0.8811,-1.31866 -1.04567,-1.19238 -1.19237,-1.04568 -1.31866,-0.88111 -1.42239,-0.70145 -1.50177,-0.50978 -1.55547,-0.3094 -1.58254,-0.10373 h -43.89657 l -1.58254,0.10373 -1.55547,0.3094 -1.50177,0.50978 -1.42239,0.70145 -1.31866,0.88111 -1.19237,1.04568 -1.04568,1.19238 z" />
+       style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:27.7226;stroke-linejoin:round;stop-color:#000000"
+       d="m -1874.4974,257.48992 -50.8946,88.15297 -0.7014,1.42239 -0.5098,1.50178 -0.3094,1.55547 -0.1037,1.58254 0.1037,1.58255 0.3094,1.55547 0.5098,1.50177 0.7015,1.42238 50.8944,88.15107 0.3877,0.47236 0.5189,0.32268 0.5951,0.13876 0.6082,-0.0599 0.5566,-0.2522 0.446,-0.41772 0.288,-0.53892 0.1,-0.60291 v -86.27539 l 0.1,-0.60292 0.2881,-0.53894 0.446,-0.41773 0.5566,-0.25221 0.6082,-0.0599 0.5951,0.13876 0.5189,0.32268 0.3877,0.47237 50.8963,88.15117 0.8811,1.31865 1.0457,1.19236 1.1924,1.04567 1.3187,0.8811 1.4224,0.70143 1.5017,0.50978 1.5555,0.3094 1.5826,0.10372 h 43.8945 l 1.5825,-0.10373 1.5555,-0.3094 1.5018,-0.50978 1.4224,-0.70144 1.3187,-0.8811 1.1923,-1.04568 1.0457,-1.19237 0.8811,-1.31866 50.8945,-88.15107 0.7015,-1.42238 0.5097,-1.50177 0.3095,-1.55547 0.1037,-1.58255 -0.1037,-1.58254 -0.3094,-1.55547 -0.5098,-1.50178 -0.7014,-1.42239 -50.8946,-88.15297 -0.3877,-0.47236 -0.5189,-0.32268 -0.5951,-0.13876 -0.6081,0.0599 -0.5566,0.25219 -0.446,0.41772 -0.2881,0.53891 -0.1,0.6029 v 86.27735 l -0.1,0.6029 -0.288,0.53891 -0.446,0.41772 -0.5566,0.25219 -0.6081,0.0599 -0.5951,-0.13876 -0.5189,-0.32268 -0.3877,-0.47236 -50.8946,-88.15297 -0.8811,-1.31866 -1.0456,-1.19238 -1.1924,-1.04568 -1.3187,-0.88111 -1.4224,-0.70145 -1.5017,-0.50978 -1.5555,-0.3094 -1.5825,-0.10373 h -43.8966 l -1.5826,0.10373 -1.5554,0.3094 -1.5018,0.50978 -1.4224,0.70145 -1.3186,0.88111 -1.1924,1.04568 -1.0457,1.19238 z" />
     <path
        id="path2626"
        style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:20.0461;stroke-linejoin:round;stop-color:#000000"
-       d="m 934.21238,285.86721 -36.8017,63.74307 -0.5072,1.02854 -0.36861,1.08593 -0.22372,1.12476 -0.0751,1.14433 0.0751,1.14433 0.22372,1.12476 0.36862,1.08592 0.50722,1.02852 36.80162,63.74172 0.28032,0.34156 0.37523,0.23333 0.43032,0.1003 0.43974,-0.0433 0.40247,-0.18237 0.32251,-0.30206 0.20828,-0.38969 0.072,-0.43596 v -62.38543 l 0.072,-0.43595 0.20828,-0.38972 0.32252,-0.30206 0.40248,-0.18237 0.43975,-0.0433 0.43033,0.10031 0.37524,0.23332 0.28033,0.34158 36.80294,63.74178 0.63712,0.95351 0.75615,0.86219 0.86221,0.75613 0.95354,0.63712 1.02852,0.5072 1.08588,0.36861 1.12477,0.22373 1.14437,0.075 h 31.73987 l 1.1444,-0.075 1.1247,-0.22373 1.086,-0.36861 1.0285,-0.50721 0.9535,-0.63712 0.8622,-0.75614 0.7562,-0.86219 0.637,-0.95352 36.8016,-63.74172 0.5072,-1.02851 0.3686,-1.08594 0.2238,-1.12475 0.075,-1.14433 -0.075,-1.14433 -0.2238,-1.12475 -0.3686,-1.08594 -0.5073,-1.02853 -36.8016,-63.74308 -0.2803,-0.34157 -0.3752,-0.23333 -0.4304,-0.1003 -0.4396,0.0433 -0.4026,0.18237 -0.3224,0.30205 -0.2084,0.38968 -0.072,0.43596 v 62.38683 l -0.072,0.43595 -0.2082,0.38968 -0.3225,0.30205 -0.4025,0.18236 -0.4397,0.0433 -0.4303,-0.10031 -0.3754,-0.23333 -0.2802,-0.34157 -36.80172,-63.74308 -0.63712,-0.95351 -0.75615,-0.8622 -0.86212,-0.75614 -0.95354,-0.63713 -1.02853,-0.50721 -1.08595,-0.36862 -1.1247,-0.22373 -1.14438,-0.075 h -31.74141 l -1.14433,0.075 -1.12476,0.22373 -1.08592,0.36862 -1.02853,0.50721 -0.95352,0.63713 -0.86219,0.75614 -0.75613,0.8622 z" />
+       d="m -1355.8822,285.86721 -36.8017,63.74307 -0.5072,1.02854 -0.3686,1.08593 -0.2238,1.12476 -0.075,1.14433 0.075,1.14433 0.2238,1.12476 0.3686,1.08592 0.5072,1.02852 36.8016,63.74172 0.2803,0.34156 0.3753,0.23333 0.4303,0.1003 0.4397,-0.0433 0.4025,-0.18237 0.3225,-0.30206 0.2083,-0.38969 0.072,-0.43596 v -62.38543 l 0.072,-0.43595 0.2083,-0.38972 0.3225,-0.30206 0.4025,-0.18237 0.4397,-0.0433 0.4304,0.10031 0.3752,0.23332 0.2803,0.34158 36.803,63.74178 0.6371,0.95351 0.7561,0.86219 0.8622,0.75613 0.9536,0.63712 1.0285,0.5072 1.0859,0.36861 1.1248,0.22373 1.1443,0.075 h 31.7399 l 1.1444,-0.075 1.1247,-0.22373 1.086,-0.36861 1.0285,-0.50721 0.9535,-0.63712 0.8622,-0.75614 0.7562,-0.86219 0.637,-0.95352 36.8016,-63.74172 0.5072,-1.02851 0.3686,-1.08594 0.2238,-1.12475 0.075,-1.14433 -0.075,-1.14433 -0.2238,-1.12475 -0.3686,-1.08594 -0.5073,-1.02853 -36.8016,-63.74308 -0.2803,-0.34157 -0.3752,-0.23333 -0.4304,-0.1003 -0.4396,0.0433 -0.4026,0.18237 -0.3224,0.30205 -0.2084,0.38968 -0.072,0.43596 v 62.38683 l -0.072,0.43595 -0.2082,0.38968 -0.3225,0.30205 -0.4025,0.18236 -0.4397,0.0433 -0.4303,-0.10031 -0.3754,-0.23333 -0.2802,-0.34157 -36.8017,-63.74308 -0.6371,-0.95351 -0.7562,-0.8622 -0.8621,-0.75614 -0.9536,-0.63713 -1.0285,-0.50721 -1.0859,-0.36862 -1.1247,-0.22373 -1.1444,-0.075 h -31.7414 l -1.1444,0.075 -1.1247,0.22373 -1.0859,0.36862 -1.0286,0.50721 -0.9535,0.63713 -0.8622,0.75614 -0.7561,0.8622 z" />
     <path
        id="path2632"
        style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:20.0461;stroke-linejoin:round;stop-color:#000000"
-       d="m 1419.5456,280.87919 -36.8017,63.74307 -0.5072,1.02854 -0.3687,1.08593 -0.2237,1.12476 -0.075,1.14433 0.075,1.14433 0.2237,1.12476 0.3687,1.08592 0.5072,1.02852 36.8016,63.74172 0.2803,0.34156 0.3753,0.23333 0.4303,0.1003 0.4397,-0.0433 0.4025,-0.18237 0.3225,-0.30206 0.2083,-0.38969 0.072,-0.43596 v -62.38543 l 0.072,-0.43595 0.2083,-0.38972 0.3225,-0.30206 0.4025,-0.18237 0.4397,-0.0433 0.4303,0.10031 0.3753,0.23332 0.2803,0.34158 36.8029,63.74178 0.6372,0.95351 0.7561,0.86219 0.8622,0.75613 0.9536,0.63712 1.0285,0.5072 1.0859,0.36861 1.1247,0.22373 1.1444,0.075 h 31.7399 l 1.1444,-0.075 1.1247,-0.22373 1.086,-0.36861 1.0285,-0.50721 0.9535,-0.63712 0.8622,-0.75614 0.7562,-0.86219 0.637,-0.95352 36.8016,-63.74172 0.5072,-1.02851 0.3686,-1.08594 0.2238,-1.12475 0.075,-1.14433 -0.075,-1.14433 -0.2238,-1.12475 -0.3686,-1.08594 -0.5073,-1.02853 -36.8016,-63.74308 -0.2803,-0.34157 -0.3752,-0.23333 -0.4304,-0.1003 -0.4396,0.0433 -0.4026,0.18237 -0.3224,0.30205 -0.2084,0.38968 -0.072,0.43596 v 62.38683 l -0.072,0.43595 -0.2082,0.38968 -0.3225,0.30205 -0.4025,0.18236 -0.4397,0.0433 -0.4303,-0.10031 -0.3754,-0.23333 -0.2802,-0.34157 -36.8017,-63.74308 -0.6372,-0.95351 -0.7561,-0.8622 -0.8621,-0.75614 -0.9536,-0.63713 -1.0285,-0.50721 -1.086,-0.36862 -1.1247,-0.22373 -1.1443,-0.075 h -31.7414 l -1.1444,0.075 -1.1247,0.22373 -1.086,0.36862 -1.0285,0.50721 -0.9535,0.63713 -0.8622,0.75614 -0.7561,0.8622 z" />
+       d="m -870.54901,280.87919 -36.8017,63.74307 -0.5072,1.02854 -0.3687,1.08593 -0.2237,1.12476 -0.075,1.14433 0.075,1.14433 0.2237,1.12476 0.3687,1.08592 0.5072,1.02852 36.8016,63.74172 0.2803,0.34156 0.3753,0.23333 0.4303,0.1003 0.4397,-0.0433 0.4025,-0.18237 0.3225,-0.30206 0.2083,-0.38969 0.072,-0.43596 v -62.38543 l 0.072,-0.43595 0.2083,-0.38972 0.3225,-0.30206 0.4025,-0.18237 0.4397,-0.0433 0.4303,0.10031 0.3753,0.23332 0.2803,0.34158 36.8029,63.74178 0.6372,0.95351 0.7561,0.86219 0.8622,0.75613 0.9536,0.63712 1.0285,0.5072 1.0859,0.36861 1.1247,0.22373 1.1444,0.075 h 31.7399 l 1.1444,-0.075 1.1247,-0.22373 1.086,-0.36861 1.0285,-0.50721 0.9535,-0.63712 0.8622,-0.75614 0.7562,-0.86219 0.637,-0.95352 36.8016,-63.74172 0.5072,-1.02851 0.3686,-1.08594 0.2238,-1.12475 0.075,-1.14433 -0.075,-1.14433 -0.2238,-1.12475 -0.3686,-1.08594 -0.5073,-1.02853 -36.8016,-63.74308 -0.2803,-0.34157 -0.3752,-0.23333 -0.4304,-0.1003 -0.4396,0.0433 -0.4026,0.18237 -0.3224,0.30205 -0.2084,0.38968 -0.072,0.43596 v 62.38683 l -0.072,0.43595 -0.2082,0.38968 -0.3225,0.30205 -0.4025,0.18236 -0.4397,0.0433 -0.4303,-0.10031 -0.3754,-0.23333 -0.2802,-0.34157 -36.8017,-63.74308 -0.6372,-0.95351 -0.7561,-0.8622 -0.8621,-0.75614 -0.9536,-0.63713 -1.0285,-0.50721 -1.086,-0.36862 -1.1247,-0.22373 -1.1443,-0.075 h -31.7414 l -1.1444,0.075 -1.1247,0.22373 -1.086,0.36862 -1.0285,0.50721 -0.9535,0.63713 -0.8622,0.75614 -0.7561,0.8622 z" />
+    <path
+       style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3039.5489,370.02706 73.629,126.6741 162.0999,-279.0553 z"
+       id="path1274"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-403.71205"
+       inkscape:transform-center-y="-158.18681"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3298.9174,210.52026 -72.8886,127.1016 322.719,0.8549 z"
+       id="path1278"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-69.486757"
+       inkscape:transform-center-y="-10.839036"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3544.5052,359.96236 -146.5175,0.4274 160.6192,279.9103 z"
+       id="path1280"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="10.906343"
+       inkscape:transform-center-y="86.319464"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3544.118,659.59516 -73.6289,-126.6741 -162.0999,279.0554 z"
+       id="path1282"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="43.578643"
+       inkscape:transform-center-y="33.821414"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3287.4135,808.63006 72.8885,-127.1015 -322.719,-0.8549 z"
+       id="path1284"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="69.486743"
+       inkscape:transform-center-y="10.839014"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3040.0818,664.29656 146.5173,-0.4274 -160.6191,-279.9103 z"
+       id="path1286"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="-10.906307"
+       inkscape:transform-center-y="-86.319436"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path2626-6-8"
+       style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:24.1593;stroke-linejoin:round;stop-color:#000000"
+       d="m 3247.0138,438.75036 -44.3529,76.8222 -0.6112,1.2395 -0.4443,1.3089 -0.2696,1.3554 -0.09,1.3792 0.09,1.3791 0.2696,1.3556 0.4443,1.3087 0.6113,1.2396 44.3527,76.8205 0.3379,0.4117 0.4522,0.2811 0.5186,0.1209 0.53,-0.052 0.485,-0.2198 0.3887,-0.364 0.251,-0.4696 0.087,-0.5255 v -75.1859 l 0.087,-0.5255 0.251,-0.4697 0.3887,-0.3639 0.4851,-0.2199 0.53,-0.052 0.5186,0.1209 0.4522,0.2812 0.3379,0.4117 44.3544,76.8206 0.7678,1.1492 0.9112,1.0391 1.0391,0.9112 1.1493,0.7678 1.2395,0.6113 1.3087,0.4442 1.3556,0.2697 1.3791,0.09 h 38.2525 l 1.3792,-0.09 1.3554,-0.2697 1.3089,-0.4442 1.2395,-0.6113 1.1491,-0.7678 1.0392,-0.9112 0.9113,-1.0391 0.7677,-1.1492 44.3527,-76.8206 0.6113,-1.2396 0.4443,-1.3087 0.2697,-1.3556 0.09,-1.3791 -0.09,-1.3791 -0.2697,-1.3555 -0.4443,-1.3088 -0.6114,-1.2395 -44.3527,-76.8222 -0.3378,-0.4117 -0.4522,-0.2812 -0.5187,-0.1208 -0.5298,0.052 -0.4852,0.2197 -0.3886,0.3641 -0.2511,0.4696 -0.087,0.5254 v 75.1877 l -0.087,0.5254 -0.2509,0.4696 -0.3887,0.364 -0.4851,0.2198 -0.5299,0.052 -0.5186,-0.1209 -0.4524,-0.2811 -0.3377,-0.4117 -44.3528,-76.8222 -0.7679,-1.1492 -0.9113,-1.0391 -1.039,-0.9112 -1.1493,-0.768 -1.2395,-0.6112 -1.3087,-0.4443 -1.3555,-0.2696 -1.3792,-0.09 h -38.2543 l -1.3791,0.09 -1.3555,0.2696 -1.3088,0.4443 -1.2395,0.6112 -1.1492,0.768 -1.0391,0.9112 -0.9113,1.0391 z"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g1077-7-7"
+       transform="matrix(0.55709121,0,0,0.55709121,4194.7384,-6309.1539)"
+       style="stroke:#8999bc;stroke-width:11.8583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#8999bc;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -2080.5676,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+         id="path1053-5-9"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g1059-3-2"
+         transform="matrix(1.0178097,0,0,1.0178097,84.937522,260.64336)"
+         style="stroke:#8999bc;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           id="path1055-5-0"
+           style="fill:none;stroke:#8999bc;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1725.3283,12437.069 c -20.5736,-2.417 -41.8466,-2.97 -62.5016,-2.97 m 125.0032,0 c -20.6809,1.069 -42.0366,-1.012 -62.5016,2.97"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#8999bc;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1725.3283,12437.069 v 96.426"
+           id="path1057-6-2"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g1065-2-3"
+         transform="matrix(0.91004648,0,0,1.0178097,-111.59599,463.35366)"
+         style="stroke:#8999bc;stroke-width:12.3213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#8999bc;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1595.0831,12334.332 v -52.107 c 55.986,-0.13 123.6297,9.294 125.0032,52.107"
+           id="path1061-9-7"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#8999bc;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1595.0831,12282.225 h 93.6309 c 0,0 26.5424,-1.106 26.5424,-26.995 0,-25.891 -42.3804,-20.006 -42.3804,-20.006 h -78.16"
+           id="path1063-1-5" />
+      </g>
+      <ellipse
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#8999bc;stroke-width:11.8583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="ellipse1067-2-9"
+         cy="12966.734"
+         cx="-1339.6987"
+         rx="61.683506"
+         ry="47.878616" />
+      <path
+         style="fill:none;stroke:#8999bc;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1229.7437,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+         id="path1069-7-2"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g1075-0-2"
+         style="stroke:#8999bc;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.0178097,0,0,1.0178097,135.44759,265.70733)">
+        <path
+           style="fill:none;stroke:#8999bc;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2005.406,12528.52 62.5016,-99.296 62.5016,99.296"
+           id="path1071-9-8"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#8999bc;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1979.1389,12488.047 h 73.4886"
+           id="path1073-3-9" />
+      </g>
+    </g>
+    <g
+       id="g1399"
+       transform="translate(3109.0424,-1801.5526)"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g1371"
+         transform="matrix(2.7511285,0,0,2.7511285,-3190.0958,4977.1756)">
+        <path
+           id="path1361"
+           style="fill:#434c5d;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1781.4046,-1162.2991 136.7539,376.5215 c 18.8237,-16.6685 25.99,-29.9315 24.916,-50.1015 v -192.877 l -48.5039,-133.543 z" />
+        <path
+           id="path1363"
+           style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1578.7606,-1097.0763 v 266.0696 c 0,1.605 0.1521,3.1675 0.4036,4.7021 0.028,0.202 0.038,0.3965 0.076,0.597 0.037,0.2778 0.076,0.5584 0.1525,0.8327 3.9172,26.4027 28.094,42.633 83.7551,83.4378 26.0063,19.0652 44.8264,33.1989 60.1876,42.4195 z" />
+        <path
+           id="path1365"
+           style="fill:#313744;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1608.4255,-1162.2984 c -16.4363,0 -29.6649,13.2286 -29.6649,29.6648 v 35.5573 l 144.5747,398.0572 c 37.6978,22.628 54.5676,15.6533 105.6572,-20.6773 l -160.7539,-442.602 z" />
+        <path
+           id="path1367"
+           style="fill:#373e4d;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1781.4057,-1162.2984 h -113.167 l 160.7538,442.602 c 8.6273,-6.1349 18.2228,-13.101 29.0673,-20.9092 26.9336,-19.393 46.5398,-33.1656 60.0987,-45.172 z" />
+        <path
+           id="path1369"
+           style="fill:#525e73;fill-opacity:1;stroke:none;stroke-width:12.0196;stroke-miterlimit:1.41421;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1894.5706,-1162.2991 48.5039,133.543 v -103.8769 c 0,-16.4362 -13.2357,-29.6661 -29.6719,-29.6661 z" />
+      </g>
+      <g
+         id="g1411"
+         transform="matrix(2.7511285,0,0,2.7511285,-3190.0958,4977.1756)">
+        <path
+           id="path1401"
+           style="fill:#434c5d;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1781.4046,-1162.2991 136.7539,376.5215 c 18.8237,-16.6685 25.99,-29.9315 24.916,-50.1015 v -192.877 l -48.5039,-133.543 z" />
+        <path
+           id="path1403"
+           style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1578.7606,-1097.0763 v 266.0696 c 0,1.605 0.1521,3.1675 0.4036,4.7021 0.028,0.202 0.038,0.3965 0.076,0.597 0.037,0.2778 0.076,0.5584 0.1525,0.8327 3.9172,26.4027 28.094,42.633 83.7551,83.4378 26.0063,19.0652 44.8264,33.1989 60.1876,42.4195 z" />
+        <path
+           id="path1405"
+           style="fill:#313744;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1608.4255,-1162.2984 c -16.4363,0 -29.6649,13.2286 -29.6649,29.6648 v 35.5573 l 144.5747,398.0572 c 37.6978,22.628 54.5676,15.6533 105.6572,-20.6773 l -160.7539,-442.602 z" />
+        <path
+           id="path1407"
+           style="fill:#373e4d;fill-opacity:1;stroke:none;stroke-width:12.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1781.4057,-1162.2984 h -113.167 l 160.7538,442.602 c 8.6273,-6.1349 18.2228,-13.101 29.0673,-20.9092 26.9336,-19.393 46.5398,-33.1656 60.0987,-45.172 z" />
+        <path
+           id="path1409"
+           style="fill:#525e73;fill-opacity:1;stroke:none;stroke-width:12.0196;stroke-miterlimit:1.41421;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1894.5706,-1162.2991 48.5039,133.543 v -103.8769 c 0,-16.4362 -13.2357,-29.6661 -29.6719,-29.6661 z" />
+      </g>
+    </g>
+    <g
+       id="g1473"
+       transform="translate(-42.385258)"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4540.6241,370.02706 73.629,126.6741 162.0999,-279.0553 z"
+         id="path1413"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="-403.71205"
+         inkscape:transform-center-y="-158.18681" />
+      <path
+         style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4799.9926,210.52026 -72.8886,127.1016 322.719,0.8549 z"
+         id="path1415"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="-69.486757"
+         inkscape:transform-center-y="-10.839036" />
+      <path
+         style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 5045.5804,359.96236 -146.5175,0.4274 160.6192,279.9103 z"
+         id="path1417"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="10.906343"
+         inkscape:transform-center-y="86.319464" />
+      <path
+         style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 5045.1932,659.59516 -73.6289,-126.6741 -162.0999,279.0554 z"
+         id="path1419"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="43.578643"
+         inkscape:transform-center-y="33.821414" />
+      <path
+         style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4788.4887,808.63006 72.8885,-127.1015 -322.719,-0.8549 z"
+         id="path1421"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="69.486743"
+         inkscape:transform-center-y="10.839014" />
+      <path
+         style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 4541.157,664.29656 146.5173,-0.4274 -160.6191,-279.9103 z"
+         id="path1423"
+         sodipodi:nodetypes="cccc"
+         inkscape:transform-center-x="-10.906307"
+         inkscape:transform-center-y="-86.319436" />
+      <path
+         id="path1425"
+         style="fill:#8999bc;fill-opacity:1;stroke:none;stroke-width:24.1593;stroke-linejoin:round;stop-color:#000000"
+         d="m 4748.089,438.75036 -44.3529,76.8222 -0.6112,1.2395 -0.4443,1.3089 -0.2696,1.3554 -0.09,1.3792 0.09,1.3791 0.2696,1.3556 0.4443,1.3087 0.6113,1.2396 44.3527,76.8205 0.3379,0.4117 0.4522,0.2811 0.5186,0.1209 0.53,-0.052 0.485,-0.2198 0.3887,-0.364 0.251,-0.4696 0.087,-0.5255 v -75.1859 l 0.087,-0.5255 0.251,-0.4697 0.3887,-0.3639 0.4851,-0.2199 0.53,-0.052 0.5186,0.1209 0.4522,0.2812 0.3379,0.4117 44.3544,76.8206 0.7678,1.1492 0.9112,1.0391 1.0391,0.9112 1.1493,0.7678 1.2395,0.6113 1.3087,0.4442 1.3556,0.2697 1.3791,0.09 h 38.2525 l 1.3792,-0.09 1.3554,-0.2697 1.3089,-0.4442 1.2395,-0.6113 1.1491,-0.7678 1.0392,-0.9112 0.9113,-1.0391 0.7677,-1.1492 44.3527,-76.8206 0.6113,-1.2396 0.4443,-1.3087 0.2697,-1.3556 0.09,-1.3791 -0.09,-1.3791 -0.2697,-1.3555 -0.4443,-1.3088 -0.6114,-1.2395 -44.3527,-76.8222 -0.3378,-0.4117 -0.4522,-0.2812 -0.5187,-0.1208 -0.5298,0.052 -0.4852,0.2197 -0.3886,0.3641 -0.2511,0.4696 -0.087,0.5254 v 75.1877 l -0.087,0.5254 -0.2509,0.4696 -0.3887,0.364 -0.4851,0.2198 -0.5299,0.052 -0.5186,-0.1209 -0.4524,-0.2811 -0.3377,-0.4117 -44.3528,-76.8222 -0.7679,-1.1492 -0.9113,-1.0391 -1.039,-0.9112 -1.1493,-0.768 -1.2395,-0.6112 -1.3087,-0.4443 -1.3555,-0.2696 -1.3792,-0.09 h -38.2543 l -1.3791,0.09 -1.3555,0.2696 -1.3088,0.4443 -1.2395,0.6112 -1.1492,0.768 -1.0391,0.9112 -0.9113,1.0391 z" />
+      <g
+         id="g1451"
+         transform="matrix(0.55709121,0,0,0.55709121,5695.8136,-6309.1539)"
+         style="stroke:#8999bc;stroke-width:11.8583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#8999bc;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2080.5676,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+           id="path1427"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g1433"
+           transform="matrix(1.0178097,0,0,1.0178097,84.937522,260.64336)"
+           style="stroke:#8999bc;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             id="path1429"
+             style="fill:none;stroke:#8999bc;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1725.3283,12437.069 c -20.5736,-2.417 -41.8466,-2.97 -62.5016,-2.97 m 125.0032,0 c -20.6809,1.069 -42.0366,-1.012 -62.5016,2.97"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:none;stroke:#8999bc;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1725.3283,12437.069 v 96.426"
+             id="path1431"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g1439"
+           transform="matrix(0.91004648,0,0,1.0178097,-111.59599,463.35366)"
+           style="stroke:#8999bc;stroke-width:12.3213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             style="fill:none;stroke:#8999bc;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1595.0831,12334.332 v -52.107 c 55.986,-0.13 123.6297,9.294 125.0032,52.107"
+             id="path1435"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#8999bc;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1595.0831,12282.225 h 93.6309 c 0,0 26.5424,-1.106 26.5424,-26.995 0,-25.891 -42.3804,-20.006 -42.3804,-20.006 h -78.16"
+             id="path1437" />
+        </g>
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#8999bc;stroke-width:11.8583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           id="ellipse1441"
+           cy="12966.734"
+           cx="-1339.6987"
+           rx="61.683506"
+           ry="47.878616" />
+        <path
+           style="fill:none;stroke:#8999bc;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1229.7437,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+           id="path1443"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g1449"
+           style="stroke:#8999bc;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.0178097,0,0,1.0178097,135.44759,265.70733)">
+          <path
+             style="fill:none;stroke:#8999bc;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2005.406,12528.52 62.5016,-99.296 62.5016,99.296"
+             id="path1445"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#8999bc;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1979.1389,12488.047 h 73.4886"
+             id="path1447" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1540"
+       transform="matrix(0.55709121,0,0,0.55709121,4194.7384,-4695.7423)"
+       style="stroke:#8999bc;stroke-width:11.8583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design10.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:type="star"
+       style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:66.665;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path2102"
+       sodipodi:sides="6"
+       sodipodi:cx="10503.067"
+       sodipodi:cy="5743.3193"
+       sodipodi:r1="809.80963"
+       sodipodi:r2="701.31567"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.0943951"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 10503.067,6553.129 -701.3153,-404.9048 0,-809.8097 701.3153,-404.9048 701.316,404.9048 0,809.8096 z" />
+    <path
+       id="path2417"
+       style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:33.5217;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 7331.3741,1226.3685 -352.647,-203.6009 V 615.56503 l 352.647,-203.60117 352.647,203.60117 v 407.20257 z"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#2c323c;stroke-width:24.5546;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 7681.0591,443.84318 -152.267,-262.6515 v 0 c -2.053,-3.52814 -4.529,-6.42717 -7.207,-8.9373 -4.032,-3.74762 -8.547,-6.65246 -13.484,-8.82733 -2.472,-1.08101 -5.056,-1.96898 -7.784,-2.60955 -2.728,-0.63779 -5.603,-1.03289 -8.664,-1.03715 l -304.307,-0.16878 h 0.09 -0.09 -0.03 c 0,13.65272 0,13.65272 0,0 v 0 c 0,13.65272 0,13.65272 0,0 -4.082,0 -7.832,0.69331 -11.348,1.75229 -5.265,1.6104 -10.041,4.06046 -14.397,7.24326 -2.174,1.59879 -4.239,3.39072 -6.158,5.43115 -1.918,2.04211 -3.699,4.33271 -5.236,6.98161 l -151.976,262.46204 c -2.044,3.54421 -3.328,7.13932 -4.171,10.71727 -0.832,3.58058 -1.211,7.15853 -1.214,10.73454 0,3.58386 0.385,7.16324 1.22,10.74675 0.846,3.57795 2.132,7.17172 4.176,10.71316 v 0 l 152.27,262.65146 v 0 c 2.054,3.52638 4.526,6.42719 7.205,8.9343 4.033,3.74731 8.548,6.65213 13.484,8.82736 2.471,1.08073 5.056,1.96862 7.784,2.60955 2.727,0.63775 5.603,1.03255 8.665,1.03678 102.7672,0 214.2601,-1.58337 315.668,-1.58337 5.267,-1.61057 10.041,-4.0592 14.398,-7.24185 2.173,-1.5988 4.236,-3.38912 6.159,-5.43118 1.919,-2.04205 3.697,-4.33425 5.236,-6.98152 l 151.964,-262.46151 c 2.042,-3.54386 3.328,-7.13957 4.17,-10.71559 0.833,-3.58107 1.211,-7.16021 1.215,-10.73657 0,-3.58187 -0.386,-7.16414 -1.221,-10.7463 -0.843,-3.57949 -2.132,-7.17336 -4.174,-10.71291 h 0.03 z"
+       id="path2419"
+       sodipodi:nodetypes="ccscccccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path2421"
+       style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:61.5283;stroke-linejoin:round;stop-color:#000000"
+       d="m 7202.3631,256.14842 -112.957,195.64864 -1.556,3.15681 -1.132,3.33332 -0.687,3.45199 -0.229,3.51261 0.229,3.51221 0.687,3.45209 1.132,3.33332 1.556,3.15685 112.957,195.64423 0.861,1.04851 1.151,0.71607 1.32,0.30789 1.35,-0.13197 1.236,-0.55985 0.99,-0.92697 0.639,-1.1961 0.221,-1.3382 V 480.78841 l 0.221,-1.33819 0.639,-1.19611 0.99,-0.92696 1.235,-0.55985 1.35,-0.13197 1.321,0.30779 1.152,0.71617 0.86,1.04841 112.961,195.64467 1.955,2.92661 2.321,2.64632 2.646,2.32077 2.927,1.95544 3.156,1.55683 3.335,1.13137 3.451,0.6869 3.512,0.23019 h 97.421 l 3.512,-0.23019 3.453,-0.6869 3.333,-1.13137 3.157,-1.55683 2.926,-1.95544 2.647,-2.32077 2.321,-2.64632 1.955,-2.92691 112.956,-195.64437 1.557,-3.15685 1.131,-3.33287 0.688,-3.45244 0.229,-3.51216 -0.229,-3.51227 -0.688,-3.45234 -1.131,-3.33302 -1.558,-3.15715 -112.955,-195.64839 -0.861,-1.04837 -1.152,-0.71607 -1.321,-0.30788 -1.348,0.13196 -1.236,0.55951 -0.991,0.92726 -0.639,1.19611 -0.222,1.33789 v 191.48603 l -0.22,1.33799 -0.639,1.1961 -0.99,0.92693 -1.235,0.5599 -1.35,0.13196 -1.32,-0.30793 -1.152,-0.71603 -0.861,-1.04851 -112.956,-195.64864 -1.955,-2.92661 -2.321,-2.64641 -2.647,-2.32063 -2.926,-1.95584 -3.158,-1.55677 -3.332,-1.13136 -3.453,-0.68661 -3.513,-0.2302 h -97.425 l -3.512,0.2302 -3.453,0.68661 -3.332,1.13136 -3.157,1.55677 -2.928,1.95584 -2.646,2.32063 -2.32,2.64641 z"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2447"
+       transform="matrix(0.49932611,0,0,0.49932611,8136.0431,-5585.4085)"
+       style="stroke:#d8dee9;stroke-width:11.8583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#d8dee9;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -2080.5676,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+         id="path2423"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g2429"
+         transform="matrix(1.0178097,0,0,1.0178097,84.937522,260.64336)"
+         style="stroke:#d8dee9;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           id="path2425"
+           style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1725.3283,12437.069 c -20.5736,-2.417 -41.8466,-2.97 -62.5016,-2.97 m 125.0032,0 c -20.6809,1.069 -42.0366,-1.012 -62.5016,2.97"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1725.3283,12437.069 v 96.426"
+           id="path2427"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g2435"
+         transform="matrix(0.91004648,0,0,1.0178097,-111.59599,463.35366)"
+         style="stroke:#d8dee9;stroke-width:12.3213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1595.0831,12334.332 v -52.107 c 55.986,-0.13 123.6297,9.294 125.0032,52.107"
+           id="path2431"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1595.0831,12282.225 h 93.6309 c 0,0 26.5424,-1.106 26.5424,-26.995 0,-25.891 -42.3804,-20.006 -42.3804,-20.006 h -78.16"
+           id="path2433" />
+      </g>
+      <ellipse
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#d8dee9;stroke-width:11.8583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="ellipse2437"
+         cy="12966.734"
+         cx="-1339.6987"
+         rx="61.683506"
+         ry="47.878616" />
+      <path
+         style="fill:none;stroke:#d8dee9;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1229.7437,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+         id="path2439"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g2445"
+         style="stroke:#d8dee9;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.0178097,0,0,1.0178097,135.44759,265.70733)">
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2005.406,12528.52 62.5016,-99.296 62.5016,99.296"
+           id="path2441"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1979.1389,12488.047 h 73.4886"
+           id="path2443" />
+      </g>
+    </g>
+    <g
+       id="g3702"
+       transform="matrix(0.49932611,0,0,0.49932611,9312.1581,-5585.4085)"
+       style="stroke:#d8dee9;stroke-width:11.8583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:none;stroke:#d8dee9;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -2080.5676,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+         id="path3678"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g3684"
+         transform="matrix(1.0178097,0,0,1.0178097,84.937522,260.64336)"
+         style="stroke:#d8dee9;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           id="path3680"
+           style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1725.3283,12437.069 c -20.5736,-2.417 -41.8466,-2.97 -62.5016,-2.97 m 125.0032,0 c -20.6809,1.069 -42.0366,-1.012 -62.5016,2.97"
+           sodipodi:nodetypes="cccc" />
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1725.3283,12437.069 v 96.426"
+           id="path3682"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g3690"
+         transform="matrix(0.91004648,0,0,1.0178097,-111.59599,463.35366)"
+         style="stroke:#d8dee9;stroke-width:12.3213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1595.0831,12334.332 v -52.107 c 55.986,-0.13 123.6297,9.294 125.0032,52.107"
+           id="path3686"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1595.0831,12282.225 h 93.6309 c 0,0 26.5424,-1.106 26.5424,-26.995 0,-25.891 -42.3804,-20.006 -42.3804,-20.006 h -78.16"
+           id="path3688" />
+      </g>
+      <ellipse
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#d8dee9;stroke-width:11.8583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         id="ellipse3692"
+         cy="12966.734"
+         cx="-1339.6987"
+         rx="61.683506"
+         ry="47.878616" />
+      <path
+         style="fill:none;stroke:#d8dee9;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1229.7437,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+         id="path3694"
+         sodipodi:nodetypes="cccc" />
+      <g
+         id="g3700"
+         style="stroke:#d8dee9;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.0178097,0,0,1.0178097,135.44759,265.70733)">
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2005.406,12528.52 62.5016,-99.296 62.5016,99.296"
+           id="path3696"
+           sodipodi:nodetypes="ccc" />
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1979.1389,12488.047 h 73.4886"
+           id="path3698" />
+      </g>
+    </g>
+    <path
+       id="path3710"
+       style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 16597.777,5474.9488 -710.833,-410.4 v -820.801 l 710.833,-410.401 710.835,410.401 v 820.801 z" />
+    <rect
+       style="opacity:1;fill:#d8dee9;stroke-width:0.436472;stroke-linejoin:round;stop-color:#000000"
+       id="rect1494"
+       width="463.18469"
+       height="2256.3269"
+       x="11906.741"
+       y="9002.0293"
+       transform="rotate(-19.961085)"
+       rx="0"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#d8dee9;stroke-width:0.436472;stroke-linejoin:round;stop-color:#000000"
+       id="rect3712"
+       width="463.18469"
+       height="2256.3269"
+       x="13490.347"
+       y="8903.752"
+       transform="rotate(-19.961085)"
+       rx="0"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#d8dee9;stroke-width:0.436472;stroke-linejoin:round;stop-color:#000000"
+       id="rect3714"
+       width="463.18469"
+       height="2256.3269"
+       x="13953.532"
+       y="8903.752"
+       transform="rotate(-19.961085)"
+       rx="0"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#d8dee9;stroke-width:0.436472;stroke-linejoin:round;stop-color:#000000"
+       id="rect3716"
+       width="463.18469"
+       height="2256.3269"
+       x="14416.718"
+       y="8903.752"
+       transform="rotate(-19.961085)"
+       rx="0"
+       ry="0" />
+    <path
+       id="path3817"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#313744;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.5546;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       d="m 8351.1485,147.33644 c -5.0184,2.89737 -15.5683,7.65038 -20.7109,11.35938 l -0.018,0.0117 -0.016,0.0137 c -2.7096,1.99358 -5.3535,4.27901 -7.8262,6.9082 v 0.004 0.002 c -2.4565,2.61548 -4.844,5.6719 -6.9063,9.22852 v 0.004 L 8163.6876,437.3423 v 0.008 c -2.7274,4.7292 -4.4262,9.53544 -5.4864,14.03515 v 0.0195 l -0.01,0.0176 c -1.054,4.53626 -1.5282,9.06569 -1.5332,13.5 v 0.008 0.006 c 0,4.46542 0.4857,9.00439 1.541,13.53321 l 0.01,0.0195 v 0.0195 c 1.0635,4.49773 2.7632,9.30046 5.4903,14.02539 l 0.01,0.01 51.3223,88.52734 21.293,-12.20313 -51.3692,-88.60937 c -1.3577,-2.35247 -2.2272,-4.73209 -2.8554,-7.38281 -0.6109,-2.62909 -0.8981,-5.24065 -0.8985,-7.9336 0,-2.7089 0.288,-5.32678 0.8946,-7.94336 0.6237,-2.64069 1.4891,-5.01449 2.8398,-7.36132 v -0.004 c 0,-0.005 -2e-4,-0.0104 0.01,-0.0156 l 151.9609,-262.4375 v -0.004 -0.002 c 1.0075,-1.7362 2.1793,-3.25754 3.5547,-4.72266 v -0.004 c 0,0 0,-0.002 0,-0.002 1.358,-1.44317 2.8387,-2.73356 4.4648,-3.93164 3.3188,-2.4223 6.2371,-4.79314 10.711,-5.39844 4.4739,-0.6053 238.5576,-1.09577 312.0996,-1.05469 h 0.01 c 2.0112,0.003 3.9166,0.25432 5.873,0.71094 1.9454,0.45712 3.8094,1.09362 5.6602,1.90235 3.7587,1.65823 7.0467,3.78625 10.039,6.56445 1.9808,1.85991 3.6091,3.79406 4.9688,6.13086 l 147.4765,254.38672 4.7442,8.22265 c 1.357,2.35218 2.229,4.73216 2.8535,7.37305 0.6121,2.62844 0.8981,5.24922 0.8984,7.94727 0,2.70841 -0.2875,5.32916 -0.8945,7.94726 -0.6233,2.64046 -1.4934,5.02372 -2.8516,7.38086 l -55.1445,95.24023 21.291,12.29102 55.1543,-95.25977 0.01,-0.0117 c 2.7223,-4.72452 4.4241,-9.52779 5.4844,-14.03125 v -0.0176 -0.0176 c 1.0541,-4.53699 1.5294,-9.06704 1.5332,-13.50391 v -0.008 -0.006 c 0,-4.46163 -0.4847,-9.00123 -1.5411,-13.5332 v -0.0156 -0.0137 c -11.6911,-20.24953 -105.5091,-186.60012 -157.75,-276.71289 v -0.008 c -2.7408,-4.71012 -6.0594,-8.56722 -9.4238,-11.7207 l -0.018,-0.0176 -0.02,-0.0176 c -5.0624,-4.70538 -10.7919,-8.3828 -16.8926,-11.07031 l -0.016,-0.006 -0.018,-0.008 c -3.0895,-1.35102 -6.39,-2.48931 -9.8945,-3.3125 l -0.01,-0.002 h -0.01 c -3.4955,-0.81722 -7.3347,-1.35366 -11.4414,-1.35937 h -0.01 l -292.0703,-0.16407 v -0.006 h -12.1582 -0.082 -0.01 -0.029 z" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:70.3336;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 8357.9683,757.97359 c -6.0533,-1.26102 -12.033,-4.82058 -16.9061,-10.06365 -5.2953,-5.69735 -156.4306,-266.0669 -159.3339,-274.4937 -4.1921,-12.16761 -5.7224,-9.14171 77.3824,-153.0007 42.6663,-73.85776 79.2313,-136.09014 81.2554,-138.29419 2.0241,-2.20404 5.9037,-5.38342 8.6213,-7.06527 l 4.9412,-3.05792 157.9534,-0.56513 c 175.6821,-0.62855 166.852,-1.06962 176.9655,8.83964 2.7458,2.69052 37.9433,61.92178 82.9272,139.55215 l 78.1564,134.87755 v 10.65769 10.65768 l -76.5359,132.15529 c -42.0947,72.68541 -77.8785,134.17738 -79.5194,136.64884 -5.7286,8.62816 -12.2676,11.48959 -28.4049,12.42977 -19.2187,1.11973 -302.4018,1.78459 -307.5026,0.72195 z"
+       id="path3833" />
+    <path
+       id="path3831"
+       style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:61.5283;stroke-linejoin:round;stop-color:#000000"
+       d="m 8378.7972,255.72895 -112.957,195.64864 -1.556,3.15681 -1.132,3.33332 -0.687,3.45199 -0.23,3.51261 0.23,3.51221 0.687,3.45209 1.132,3.33332 1.556,3.15685 112.957,195.64423 0.861,1.04851 1.151,0.71607 1.32,0.30789 1.35,-0.13197 1.236,-0.55985 0.99,-0.92697 0.639,-1.1961 0.221,-1.3382 V 480.36894 l 0.22,-1.33819 0.64,-1.19611 0.99,-0.92696 1.235,-0.55985 1.35,-0.13197 1.32,0.30779 1.153,0.71617 0.86,1.04841 112.961,195.64467 1.955,2.92661 2.321,2.64632 2.646,2.32077 2.927,1.95544 3.156,1.55683 3.334,1.13137 3.452,0.6869 3.512,0.23019 h 97.421 l 3.512,-0.23019 3.453,-0.6869 3.332,-1.13137 3.158,-1.55683 2.926,-1.95544 2.647,-2.32077 2.321,-2.64632 1.955,-2.92691 112.956,-195.64437 1.557,-3.15685 1.131,-3.33287 0.688,-3.45244 0.229,-3.51216 -0.229,-3.51227 -0.688,-3.45234 -1.131,-3.33302 -1.558,-3.15715 -112.955,-195.64839 -0.861,-1.04837 -1.152,-0.71607 -1.321,-0.30788 -1.348,0.13196 -1.236,0.55951 -0.991,0.92726 -0.639,1.19611 -0.222,1.33789 v 191.48603 l -0.221,1.33799 -0.638,1.1961 -0.99,0.92693 -1.235,0.5599 -1.35,0.13196 -1.32,-0.30793 -1.152,-0.71603 -0.861,-1.04851 -112.957,-195.64864 -1.954,-2.92661 -2.322,-2.64641 -2.646,-2.32063 -2.926,-1.95584 -3.158,-1.55677 -3.332,-1.13136 -3.454,-0.68661 -3.512,-0.2302 h -97.425 l -3.512,0.2302 -3.453,0.68661 -3.332,1.13136 -3.158,1.55677 -2.927,1.95584 -2.646,2.32063 -2.321,2.64641 z"
+       inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="path3835"
+       style="fill:#313744;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 8288.6094 221.60547 L 8163.6875 437.3418 L 8163.6875 437.34961 C 8160.9601 442.07881 8159.2614 446.88506 8158.2012 451.38477 L 8158.2012 451.4043 L 8158.1914 451.42188 C 8157.1374 455.95814 8156.6632 460.48757 8156.6582 464.92188 L 8156.6582 464.92969 L 8156.6582 464.9375 C 8156.6582 469.40292 8157.1439 473.94188 8158.1992 478.4707 L 8158.209 478.49023 L 8158.209 478.50781 C 8159.2725 483.00554 8160.9721 487.80827 8163.6992 492.5332 L 8163.709 492.54492 L 8215.0312 581.07227 L 8236.3242 568.86914 L 8184.9551 480.25977 C 8183.5974 477.9073 8182.7278 475.52767 8182.0996 472.87695 C 8181.4887 470.24786 8181.2016 467.63631 8181.2012 464.94336 C 8181.2012 462.23446 8181.4891 459.61658 8182.0957 457 C 8182.7194 454.35931 8183.5848 451.9855 8184.9355 449.63867 L 8184.9355 449.63477 C 8184.9355 449.62977 8184.9351 449.62434 8184.9453 449.61914 L 8297.582 255.0957 L 8288.6094 221.60547 z " />
+    <path
+       id="path3840"
+       style="fill:#373e4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 8351.1484,147.33594 c -5.0184,2.89737 -15.5683,7.65037 -20.7109,11.35937 l -0.018,0.0117 -0.016,0.0137 c -2.7096,1.99358 -5.3535,4.27902 -7.8262,6.90821 v 0.004 0.002 c -2.4565,2.61548 -4.8439,5.67189 -6.9062,9.22851 v 0.004 l -27.0645,46.73828 8.9746,33.49023 39.3242,-67.91406 v -0.004 -0.004 c 1.0075,-1.7362 2.1793,-3.25754 3.5547,-4.72266 v -0.004 -0.002 c 1.358,-1.44317 2.8388,-2.73356 4.4649,-3.93164 3.3188,-2.4223 6.237,-4.79314 10.7109,-5.39844 1.7201,-0.23271 144.7935,-0.446 192.2196,-0.62109 l -6.7305,-25.11914 -165.3992,-0.0332 v -0.006 h -12.1582 -0.082 -0.01 -0.029 z"
+       sodipodi:nodetypes="csccccscccccccccscsccccccccc" />
+    <path
+       id="path3845"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#434c5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.5546;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       d="M 8506.998 147.41602 L 8513.6621 172.28516 C 8573.9263 172.13797 8635.9513 172.04279 8667.7363 172.06055 L 8667.7461 172.06055 C 8669.7573 172.06355 8671.6627 172.31486 8673.6191 172.77148 C 8675.5645 173.2286 8677.4285 173.8651 8679.2793 174.67383 C 8683.038 176.33206 8686.3261 178.46008 8689.3184 181.23828 C 8691.2992 183.09819 8692.9274 185.03234 8694.2871 187.36914 L 8841.7637 441.75586 L 8846.5078 449.97852 C 8847.8648 452.3307 8848.7368 454.71067 8849.3613 457.35156 C 8849.9734 459.98 8850.2595 462.60078 8850.2598 465.29883 C 8850.2598 468.00724 8849.9722 470.62799 8849.3652 473.24609 C 8848.7419 475.88655 8847.8719 478.26981 8846.5137 480.62695 L 8791.3691 575.86719 L 8812.6602 588.1582 L 8867.8145 492.89844 L 8867.8262 492.88672 C 8870.5485 488.1622 8872.2502 483.35893 8873.3105 478.85547 L 8873.3105 478.83789 L 8873.3105 478.82031 C 8874.3646 474.28332 8874.8399 469.75328 8874.8438 465.31641 L 8874.8438 465.30859 L 8874.8438 465.30273 C 8874.8438 460.8411 8874.3572 456.3015 8873.3008 451.76953 L 8873.3008 451.75391 L 8873.3008 451.74023 C 8861.6097 431.4907 8767.7917 265.14011 8715.5508 175.02734 L 8715.5508 175.01953 C 8712.81 170.30941 8709.4914 166.45231 8706.127 163.29883 L 8706.1094 163.28125 L 8706.0898 163.26367 C 8701.0274 158.55829 8695.298 154.88087 8689.1973 152.19336 L 8689.1816 152.1875 L 8689.1641 152.17969 C 8686.0746 150.82867 8682.774 149.69038 8679.2695 148.86719 L 8679.2598 148.86523 L 8679.248 148.86523 C 8675.7525 148.04801 8671.9133 147.51157 8667.8066 147.50586 L 8667.7969 147.50586 L 8506.998 147.41602 z " />
+    <g
+       id="g4138"
+       transform="matrix(0.47802142,0,0,0.47802142,535.00285,-494.54084)">
+      <path
+         id="path4078"
+         style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient4088);stroke-width:30;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         d="m 1669.4806,2383.4602 -435.0326,-251.1662 -2.2606,-1.5105 -2.044,-1.7926 -1.7926,-2.044 -1.5105,-2.2606 -1.2025,-2.4384 -0.8739,-2.5744 -0.5304,-2.6666 -0.1778,-2.7129 v -502.3333 l 0.1778,-2.7129 0.5304,-2.6666 0.8739,-2.5744 1.2025,-2.4384 1.5105,-2.2606 1.7926,-2.044 2.044,-1.7926 2.2606,-1.5105 435.0326,-251.1666 2.4384,-1.2025 2.5744,-0.8739 2.6666,-0.5304 2.7129,-0.1778 2.7129,0.1778 2.6666,0.5304 2.5744,0.8739 2.4384,1.2025 435.0325,251.1666 2.2606,1.5105 2.044,1.7926 1.7926,2.044 1.5105,2.2606 1.2025,2.4384 0.8739,2.5744 0.5304,2.6666 0.1778,2.7129 v 502.3333 l -0.1778,2.7129 -0.5304,2.6666 -0.8739,2.5744 -1.2025,2.4384 -1.5105,2.2606 -1.7926,2.044 -2.044,1.7926 -2.2606,1.5105 -435.0325,251.1662 -2.4384,1.2025 -2.5744,0.8739 -2.6666,0.5304 -2.7129,0.1778 -2.7129,-0.1778 -2.6666,-0.5304 -2.5744,-0.8739 z"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:path-effect="#path-effect4080"
+         inkscape:original-d="M 1679.8729,2389.4602 1224.0557,2126.294 v -526.3333 l 455.8172,-263.1666 455.8171,263.1666 v 526.3333 z" />
+      <path
+         id="path3884"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:30;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000;opacity:0.995"
+         d="m 96.369666,2383.4602 -435.032546,-251.1662 -2.26056,-1.5105 -2.04407,-1.7926 -1.7926,-2.044 -1.51046,-2.2606 -1.20248,-2.4384 -0.87391,-2.5744 -0.5304,-2.6666 -0.17782,-2.7129 0,-502.3333 0.17782,-2.7129 0.5304,-2.6666 0.87391,-2.5744 1.20248,-2.4384 1.51046,-2.2606 1.7926,-2.044 2.04407,-1.7926 2.26056,-1.5105 435.03255,-251.1666 2.438377,-1.2025 2.574473,-0.8739 2.66651,-0.5304 2.71294,-0.1778 2.71294,0.1778 2.66651,0.5304 2.57447,0.8739 2.43838,1.2025 435.03255,251.1666 2.26056,1.5105 2.04407,1.7926 1.7926,2.044 1.51046,2.2606 1.20248,2.4384 0.87391,2.5744 0.5304,2.6666 0.17782,2.7129 v 502.3333 l -0.17782,2.7129 -0.5304,2.6666 -0.87391,2.5744 -1.20248,2.4384 -1.51046,2.2606 -1.7926,2.044 -2.04407,1.7926 -2.26056,1.5105 -435.03255,251.1662 -2.43837,1.2025 -2.57448,0.8739 -2.66651,0.5304 -2.71294,0.1778 -2.71294,-0.1778 -2.66651,-0.5304 -2.574475,-0.8739 z"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:original-d="M 106.76197,2389.4602 -349.05518,2126.294 v -526.3333 l 455.81715,-263.1666 455.81715,263.1666 v 526.3333 z"
+         inkscape:path-effect="#path-effect3886" />
+      <g
+         id="g3908"
+         transform="matrix(0.49610363,0,0,0.49610363,-11690.673,-2805.5478)"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <g
+           id="g3896"
+           transform="translate(0,-2466.9824)">
+          <path
+             id="path3888"
+             style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 26238.15,12159.107 -5.763,3.329 v 820.8 l 386.039,222.881 z" />
+          <path
+             id="path3890"
+             style="fill:#313744;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 26645.518,11923.912 -407.368,235.195 380.276,1047.01 324.793,187.52 195.177,-112.686 z" />
+          <path
+             id="path3892"
+             style="fill:#373e4d;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 26943.221,11752.033 -297.703,171.879 492.879,1357.039 407.367,-235.193 -434.683,-1196.811 z" />
+          <path
+             id="path3894"
+             style="fill:#434c5d;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 27111.082,11848.948 434.681,1196.809 108.289,-62.522 v -820.8 z" />
+        </g>
+        <g
+           id="g3906"
+           transform="translate(0,-2466.9824)">
+          <path
+             id="path3898"
+             style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 26238.15,12159.107 -5.763,3.329 v 820.8 l 386.039,222.881 z" />
+          <path
+             id="path3900"
+             style="fill:#313744;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 26645.518,11923.912 -407.368,235.195 380.276,1047.01 324.793,187.52 195.177,-112.686 z" />
+          <path
+             id="path3902"
+             style="fill:#373e4d;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 26943.221,11752.033 -297.703,171.879 492.879,1357.039 407.367,-235.193 -434.683,-1196.811 z" />
+          <path
+             id="path3904"
+             style="fill:#434c5d;fill-opacity:1;stroke:none;stroke-width:67.5699;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+             d="m 27111.082,11848.948 434.681,1196.809 108.289,-62.522 v -820.8 z" />
+        </g>
+      </g>
+      <path
+         id="path3910"
+         style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:33.5217;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         d="m 106.76197,2677.5318 -352.647,-203.601 v -407.2025 l 352.647,-203.6012 352.647,203.6012 v 407.2025 z"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:30.0462;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 532.79534,1827.9412 346.47998,1506.5583 v 0 c -2.51207,-4.3171 -5.54173,-7.8644 -8.81856,-10.9358 -4.93359,-4.5856 -10.45819,-8.14 -16.49915,-10.8011 -3.02476,-1.3229 -6.18657,-2.4093 -9.52458,-3.1932 -3.338,-0.7804 -6.85588,-1.2638 -10.60135,-1.269 l -372.352973,-0.2065 h 0.110125 -0.110125 -0.03671 c 0,16.7056 0,16.7056 0,0 v 0 c 0,16.7056 0,16.7056 0,0 -4.994774,0 -9.58331,0.8483 -13.885522,2.1441 -6.442304,1.9705 -12.286264,4.9684 -17.616305,8.8629 -2.66013,1.9563 -5.18688,4.1489 -7.53499,6.6456 -2.34688,2.4988 -4.52613,5.3016 -6.40682,8.5428 l -185.95929,321.151 c -2.50106,4.3367 -4.07217,8.7357 -5.10368,13.1138 -1.01804,4.3813 -1.48179,8.7592 -1.48546,13.1348 0,4.3853 0.47109,8.7651 1.4928,13.1499 1.03518,4.378 2.60874,8.7754 5.1098,13.1087 v 0 l 186.31903,321.3829 v 0 c 2.5133,4.3149 5.53806,7.8644 8.81611,10.9321 4.93482,4.5852 10.459413,8.1396 16.49915,10.8013 3.023539,1.3223 6.18657,2.4088 9.524577,3.193 3.336784,0.7804 6.855885,1.2635 10.602577,1.2686 125.74669,0 262.170596,-1.9374 386.254406,-1.9374 6.44475,-1.9707 12.28626,-4.9669 17.61753,-8.8612 2.6589,-1.9563 5.18321,-4.1469 7.53621,-6.6457 2.34811,-2.4987 4.52369,-5.3034 6.40682,-8.5426 l 185.94461,-321.1504 c 2.49861,-4.3363 4.07217,-8.7361 5.10245,-13.1117 1.01927,-4.3819 1.4818,-8.7613 1.48669,-13.1374 0,-4.3829 -0.47231,-8.7661 -1.49403,-13.1493 -1.0315,-4.3799 -2.60873,-8.7774 -5.10734,-13.1084 h 0.0367 z"
+         id="path4172"
+         sodipodi:nodetypes="ccscccccccccccccccccccccccccccccccccccccc"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#2c323c;stroke-width:24.55538499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 456.44697,1832.6793 -152.267,-262.6515 v 0 c -2.053,-3.5282 -4.529,-6.4272 -7.207,-8.9373 -4.032,-3.7476 -8.547,-6.6525 -13.484,-8.8273 -2.472,-1.0811 -5.056,-1.969 -7.784,-2.6096 -2.728,-0.6378 -5.603,-1.0329 -8.664,-1.0371 l -304.307001,-0.1688 h 0.09 -0.09 -0.03 c 0,13.6527 0,13.6527 0,0 v 0 c 0,13.6527 0,13.6527 0,0 -4.082,0 -7.832,0.6933 -11.348,1.7523 -5.265,1.6104 -10.041,4.0604 -14.397,7.2432 -2.174,1.5988 -4.239,3.3907 -6.158,5.4312 -1.918,2.0421 -3.699,4.3327 -5.236,6.9816 l -151.975999,262.462 c -2.044,3.5442 -3.328,7.1393 -4.171,10.7173 -0.832,3.5806 -1.211,7.1585 -1.214,10.7345 0,3.5839 0.385,7.1633 1.22,10.7468 0.846,3.5779 2.132,7.1717 4.176,10.7131 v 0 l 152.269999,262.6515 v 0 c 2.054,3.5264 4.526,6.4272 7.205,8.9343 4.033,3.7473 8.548,6.6521 13.484,8.8274 2.471,1.0807 5.056,1.9686 7.784,2.6095 2.727,0.6378 5.603,1.0326 8.665,1.0368 102.767,0 214.260001,-1.5834 315.668001,-1.5834 5.267,-1.6105 10.041,-4.0592 14.398,-7.2418 2.173,-1.5988 4.236,-3.3891 6.159,-5.4312 1.919,-2.0421 3.697,-4.3343 5.236,-6.9815 l 151.964,-262.4615 c 2.042,-3.5439 3.328,-7.1396 4.17,-10.7156 0.833,-3.5811 1.211,-7.1602 1.215,-10.7366 0,-3.5819 -0.386,-7.1641 -1.221,-10.7463 -0.843,-3.5795 -2.132,-7.1734 -4.174,-10.7129 h 0.03 z"
+         id="path3912"
+         sodipodi:nodetypes="ccscccccccccccccccccccccccccccccccccccccc"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path3914"
+         style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:61.5283;stroke-linejoin:round;stop-color:#000000"
+         d="m -22.249031,1644.9845 -112.956999,195.6487 -1.556,3.1568 -1.132,3.3333 -0.687,3.452 -0.229,3.5126 0.229,3.5122 0.687,3.4521 1.132,3.3333 1.556,3.1569 112.956999,195.6442 0.861,1.0485 1.151,0.7161 1.32,0.3079 1.35,-0.132 1.236,-0.5599 0.99,-0.9269 0.639,-1.1961 0.221,-1.3382 v -191.4815 l 0.221,-1.3382 0.639,-1.1961 0.99,-0.9269 1.235,-0.5599 1.35,-0.132 1.3209999,0.3078 1.152,0.7162 0.86,1.0484 112.9610011,195.6447 1.955,2.9266 2.321,2.6463 2.646,2.3208 2.927,1.9554 3.156,1.5568 3.335,1.1314 3.451,0.6869 3.512,0.2302 h 97.421 l 3.512,-0.2302 3.453,-0.6869 3.333,-1.1314 3.157,-1.5568 2.926,-1.9554 2.647,-2.3208 2.321,-2.6463 1.955,-2.9269 112.956,-195.6444 1.557,-3.1569 1.131,-3.3328 0.688,-3.4525 0.229,-3.5121 -0.229,-3.5123 -0.688,-3.4523 -1.131,-3.3331 -1.558,-3.1571 -112.955,-195.6484 -0.861,-1.0484 -1.152,-0.716 -1.321,-0.3079 -1.348,0.132 -1.236,0.5595 -0.991,0.9272 -0.639,1.1961 -0.222,1.3379 v 191.486 l -0.22,1.338 -0.639,1.1961 -0.99,0.927 -1.235,0.5599 -1.35,0.1319 -1.32,-0.3079 -1.152,-0.716 -0.861,-1.0485 -112.956,-195.6487 -1.955,-2.9266 -2.321,-2.6464 -2.647,-2.3206 -2.926,-1.9559 -3.158,-1.5567 -3.332,-1.1314 -3.453,-0.6866 -3.513001,-0.2302 H 1.0529689 l -3.512,0.2302 -3.453,0.6866 -3.332,1.1314 -3.1569999,1.5567 -2.928,1.9559 -2.646,2.3206 -2.32,2.6464 z"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         id="g3940"
+         transform="matrix(0.49932611,0,0,0.49932611,911.43097,-4134.2452)"
+         style="stroke:#d8dee9;stroke-width:11.8583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2080.5676,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+           id="path3916"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g3922"
+           transform="matrix(1.0178097,0,0,1.0178097,84.937522,260.64336)"
+           style="stroke:#d8dee9;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             id="path3918"
+             style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1725.3283,12437.069 c -20.5736,-2.417 -41.8466,-2.97 -62.5016,-2.97 m 125.0032,0 c -20.6809,1.069 -42.0366,-1.012 -62.5016,2.97"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1725.3283,12437.069 v 96.426"
+             id="path3920"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g3928"
+           transform="matrix(0.91004648,0,0,1.0178097,-111.59599,463.35366)"
+           style="stroke:#d8dee9;stroke-width:12.3213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1595.0831,12334.332 v -52.107 c 55.986,-0.13 123.6297,9.294 125.0032,52.107"
+             id="path3924"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1595.0831,12282.225 h 93.6309 c 0,0 26.5424,-1.106 26.5424,-26.995 0,-25.891 -42.3804,-20.006 -42.3804,-20.006 h -78.16"
+             id="path3926" />
+        </g>
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#d8dee9;stroke-width:11.8583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           id="ellipse3930"
+           cy="12966.734"
+           cx="-1339.6987"
+           rx="61.683506"
+           ry="47.878616" />
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1229.7437,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+           id="path3932"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g3938"
+           style="stroke:#d8dee9;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.0178097,0,0,1.0178097,135.44759,265.70733)">
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2005.406,12528.52 62.5016,-99.296 62.5016,99.296"
+             id="path3934"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1979.1389,12488.047 h 73.4886"
+             id="path3936" />
+        </g>
+      </g>
+      <g
+         id="g3966"
+         transform="matrix(0.49932611,0,0,0.49932611,2480.6253,-4196.5724)"
+         style="stroke:#d8dee9;stroke-width:11.8583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2080.5676,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+           id="path3942"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g3948"
+           transform="matrix(1.0178097,0,0,1.0178097,84.937522,260.64336)"
+           style="stroke:#d8dee9;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             id="path3944"
+             style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1725.3283,12437.069 c -20.5736,-2.417 -41.8466,-2.97 -62.5016,-2.97 m 125.0032,0 c -20.6809,1.069 -42.0366,-1.012 -62.5016,2.97"
+             sodipodi:nodetypes="cccc" />
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1725.3283,12437.069 v 96.426"
+             id="path3946"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g3954"
+           transform="matrix(0.91004648,0,0,1.0178097,-111.59599,463.35366)"
+           style="stroke:#d8dee9;stroke-width:12.3213;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1595.0831,12334.332 v -52.107 c 55.986,-0.13 123.6297,9.294 125.0032,52.107"
+             id="path3950"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:12.3213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1595.0831,12282.225 h 93.6309 c 0,0 26.5424,-1.106 26.5424,-26.995 0,-25.891 -42.3804,-20.006 -42.3804,-20.006 h -78.16"
+             id="path3952" />
+        </g>
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#d8dee9;stroke-width:11.8583;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           id="ellipse3956"
+           cy="12966.734"
+           cx="-1339.6987"
+           rx="61.683506"
+           ry="47.878616" />
+        <path
+           style="fill:none;stroke:#d8dee9;stroke-width:11.8583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -1229.7437,13017.356 v -101.064 l 127.2295,101.064 v -101.064"
+           id="path3958"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g3964"
+           style="stroke:#d8dee9;stroke-width:11.6508;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(1.0178097,0,0,1.0178097,135.44759,265.70733)">
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -2005.406,12528.52 62.5016,-99.296 62.5016,99.296"
+             id="path3960"
+             sodipodi:nodetypes="ccc" />
+          <path
+             style="fill:none;stroke:#d8dee9;stroke-width:11.6508;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m -1979.1389,12488.047 h 73.4886"
+             id="path3962" />
+        </g>
+      </g>
+      <path
+         id="path3968"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#313744;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.5546;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 1519.6153,1536.1725 c -5.018,2.8974 -15.568,7.6504 -20.71,11.3594 l -0.02,0.012 -0.02,0.014 c -2.71,1.9936 -5.354,4.279 -7.827,6.9082 v 0 0 c -2.456,2.6155 -4.844,5.6719 -6.906,9.2285 v 0 l -151.983,262.4744 v 0.01 c -2.728,4.7292 -4.427,9.5354 -5.487,14.0352 v 0.019 l -0.01,0.018 c -1.054,4.5362 -1.528,9.0656 -1.533,13.5 v 0.01 0.01 c 0,4.4655 0.486,9.0044 1.541,13.5333 l 0.01,0.019 v 0.02 c 1.063,4.4977 2.763,9.3004 5.49,14.0254 l 0.01,0.01 51.323,88.5273 21.293,-12.2031 -51.37,-88.6094 c -1.357,-2.3525 -2.227,-4.7321 -2.855,-7.3828 -0.611,-2.6291 -0.898,-5.2407 -0.899,-7.9336 0,-2.7089 0.288,-5.3268 0.895,-7.9434 0.624,-2.6407 1.489,-5.0145 2.84,-7.3613 v 0 c 0,-0.01 0,-0.01 0.01,-0.016 l 151.961,-262.4375 v 0 0 c 1.007,-1.7362 2.179,-3.2575 3.554,-4.7227 v 0 c 0,0 0,0 0,0 1.358,-1.4431 2.839,-2.7335 4.465,-3.9316 3.319,-2.4223 6.237,-4.7931 10.711,-5.3984 4.474,-0.6053 238.558,-1.0958 312.1,-1.0547 h 0.01 c 2.011,0 3.916,0.2543 5.873,0.7109 1.945,0.4571 3.809,1.0936 5.66,1.9024 3.759,1.6582 7.047,3.7862 10.039,6.5644 1.981,1.8599 3.609,3.7941 4.969,6.1309 l 147.476,254.3867 4.745,8.2226 c 1.357,2.3522 2.229,4.7322 2.853,7.3731 0.612,2.6284 0.898,5.2492 0.898,7.9473 0,2.7084 -0.287,5.3291 -0.894,7.9472 -0.623,2.6405 -1.493,5.0237 -2.852,7.3809 l -55.144,95.2402 21.291,12.291 55.154,-95.2597 0.01,-0.012 c 2.722,-4.7246 4.424,-9.5278 5.485,-14.0313 v -0.018 -0.018 c 1.054,-4.537 1.529,-9.067 1.533,-13.5039 v -0.01 -0.01 c 0,-4.4616 -0.485,-9.0012 -1.541,-13.5332 v -0.016 -0.014 c -11.691,-20.2495 -105.509,-186.6001 -157.75,-276.7129 v -0.01 c -2.741,-4.7101 -6.06,-8.5672 -9.424,-11.7207 l -0.02,-0.018 -0.02,-0.018 c -5.063,-4.7054 -10.792,-8.3828 -16.893,-11.0703 l -0.02,-0.01 -0.02,-0.01 c -3.089,-1.351 -6.39,-2.4893 -9.894,-3.3125 h -0.01 -0.01 c -3.496,-0.8172 -7.335,-1.3537 -11.442,-1.3594 h -0.01 l -292.07,-0.164 v -0.01 h -12.158 -0.08 -0.01 -0.03 z" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:70.3336;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         d="m 1526.4353,2146.8097 c -6.053,-1.261 -12.033,-4.8206 -16.906,-10.0637 -5.295,-5.6973 -156.43,-266.0669 -159.334,-274.4937 -4.192,-12.1676 -5.722,-9.1417 77.383,-153.0007 42.666,-73.8577 79.231,-136.0901 81.255,-138.2942 2.024,-2.204 5.904,-5.3834 8.621,-7.0652 l 4.942,-3.0579 157.953,-0.5652 c 175.682,-0.6285 166.852,-1.0696 176.965,8.8397 2.746,2.6905 37.944,61.9218 82.928,139.5521 l 78.156,134.8776 v 10.6577 10.6576 l -76.536,132.1553 c -42.095,72.6854 -77.878,134.1774 -79.519,136.6489 -5.729,8.6281 -12.268,11.4896 -28.405,12.4297 -19.219,1.1198 -302.402,1.7846 -307.503,0.722 z"
+         id="path3970" />
+      <path
+         id="path3972"
+         style="fill:#2c323c;fill-opacity:1;stroke:none;stroke-width:61.5283;stroke-linejoin:round;stop-color:#000000"
+         d="m 1547.2643,1644.5651 -112.957,195.6486 -1.556,3.1568 -1.132,3.3333 -0.687,3.452 -0.23,3.5126 0.23,3.5122 0.687,3.4521 1.132,3.3333 1.556,3.1569 112.957,195.6442 0.861,1.0485 1.151,0.7161 1.32,0.3079 1.35,-0.132 1.236,-0.5598 0.99,-0.927 0.639,-1.1961 0.221,-1.3382 V 1869.205 l 0.22,-1.3382 0.64,-1.1961 0.99,-0.9269 1.235,-0.5599 1.35,-0.1319 1.32,0.3078 1.153,0.7161 0.86,1.0484 112.961,195.6447 1.955,2.9266 2.321,2.6463 2.646,2.3208 2.927,1.9554 3.156,1.5569 3.334,1.1313 3.452,0.6869 3.512,0.2302 h 97.421 l 3.512,-0.2302 3.453,-0.6869 3.332,-1.1313 3.158,-1.5569 2.926,-1.9554 2.647,-2.3208 2.321,-2.6463 1.955,-2.9269 112.956,-195.6444 1.557,-3.1568 1.131,-3.3329 0.688,-3.4524 0.229,-3.5122 -0.229,-3.5123 -0.688,-3.4523 -1.131,-3.333 -1.558,-3.1572 -112.955,-195.6484 -0.861,-1.0483 -1.152,-0.7161 -1.321,-0.3079 -1.348,0.132 -1.236,0.5595 -0.991,0.9272 -0.639,1.1962 -0.222,1.3379 v 191.486 l -0.221,1.338 -0.638,1.1961 -0.99,0.9269 -1.235,0.5599 -1.35,0.132 -1.32,-0.308 -1.152,-0.716 -0.861,-1.0485 -112.957,-195.6486 -1.954,-2.9267 -2.322,-2.6464 -2.646,-2.3206 -2.926,-1.9558 -3.158,-1.5568 -3.332,-1.1314 -3.454,-0.6866 -3.512,-0.2302 h -97.425 l -3.512,0.2302 -3.453,0.6866 -3.332,1.1314 -3.158,1.5568 -2.927,1.9558 -2.646,2.3206 -2.321,2.6464 z"
+         inkscape:export-filename="/home/songtech/Downloads/Natron-Community-Badge-Design11.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path3974"
+         style="fill:#313744;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1457.0763,1610.4416 -124.922,215.7363 v 0.01 c -2.727,4.7292 -4.426,9.5355 -5.486,14.0352 v 0.02 l -0.01,0.018 c -1.054,4.5362 -1.528,9.0657 -1.533,13.5 v 0.01 0.01 c 0,4.4654 0.486,9.0043 1.541,13.5332 l 0.01,0.02 v 0.018 c 1.063,4.4977 2.763,9.3004 5.49,14.0254 l 0.01,0.012 51.322,88.5273 21.293,-12.2031 -51.369,-88.6094 c -1.358,-2.3525 -2.227,-4.7321 -2.855,-7.3828 -0.611,-2.6291 -0.898,-5.2407 -0.899,-7.9336 0,-2.7089 0.288,-5.3268 0.895,-7.9434 0.623,-2.6407 1.489,-5.0145 2.839,-7.3613 v 0 c 0,0 0,-0.01 0.01,-0.016 l 112.637,-194.5234 z" />
+      <path
+         id="path3976"
+         style="fill:#373e4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1519.6153,1536.172 c -5.018,2.8974 -15.568,7.6504 -20.711,11.3594 l -0.02,0.012 -0.02,0.014 c -2.709,1.9936 -5.353,4.279 -7.826,6.9082 v 0 0 c -2.456,2.6155 -4.844,5.6719 -6.906,9.2285 v 0 l -27.064,46.7383 8.974,33.4902 39.324,-67.914 v 0 0 c 1.008,-1.7362 2.18,-3.2576 3.555,-4.7227 v 0 0 c 1.358,-1.4431 2.839,-2.7335 4.465,-3.9316 3.319,-2.4223 6.237,-4.7932 10.711,-5.3985 1.72,-0.2327 144.793,-0.446 192.219,-0.621 l -6.73,-25.1192 -165.399,-0.033 v -0.01 h -12.158 -0.08 -0.01 -0.03 z"
+         sodipodi:nodetypes="csccccscccccccccscsccccccccc" />
+      <path
+         id="path3978"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#434c5d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.5546;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         d="m 1675.4653,1536.2521 6.664,24.8692 c 60.264,-0.1472 122.289,-0.2424 154.074,-0.2246 h 0.01 c 2.011,0 3.917,0.2543 5.873,0.7109 1.945,0.4571 3.809,1.0936 5.66,1.9023 3.759,1.6583 7.047,3.7863 10.039,6.5645 1.981,1.8599 3.609,3.794 4.969,6.1308 l 147.477,254.3868 4.744,8.2226 c 1.357,2.3522 2.229,4.7322 2.853,7.3731 0.612,2.6284 0.898,5.2492 0.899,7.9472 0,2.7084 -0.288,5.3292 -0.895,7.9473 -0.623,2.6405 -1.493,5.0237 -2.851,7.3808 l -55.145,95.2403 21.291,12.291 55.154,-95.2598 0.01,-0.012 c 2.722,-4.7245 4.424,-9.5278 5.484,-14.0312 v -0.018 -0.018 c 1.055,-4.537 1.53,-9.067 1.534,-13.5039 v -0.01 -0.01 c 0,-4.4616 -0.487,-9.0012 -1.543,-13.5332 v -0.016 -0.014 c -11.691,-20.2495 -105.509,-186.6001 -157.75,-276.7129 v -0.01 c -2.741,-4.7101 -6.06,-8.5672 -9.424,-11.7207 l -0.02,-0.018 -0.02,-0.018 c -5.063,-4.7054 -10.792,-8.3828 -16.893,-11.0703 l -0.02,-0.01 -0.02,-0.01 c -3.089,-1.351 -6.39,-2.4893 -9.895,-3.3125 v 0 h -0.01 c -3.496,-0.8172 -7.335,-1.3537 -11.441,-1.3594 h -0.01 z" />
+    </g>
   </g>
 </svg>
